@@ -1,0 +1,21 @@
+!  Glendening Polarization  EMSL  Basis Set Exchange Library   1/21/18 3:15 PM
+! !
+! Summary: 1P Polarization functions
+! Primary Developer: N/A
+! Contributor: Dr. David Feller
+! Last Modified: Mon, 15 Jan 2007 23:44:17 GMT
+
+****
+-K     0 
+D   1   1.00
+      0.4800000              1.0000000        
+****
+-Rb     0 
+D   1   1.00
+      0.2400000              1.0000000        
+****
+-Cs     0 
+D   1   1.00
+      0.1900000              1.0000000        
+****
+
