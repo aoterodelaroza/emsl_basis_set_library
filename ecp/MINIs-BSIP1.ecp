@@ -1,0 +1,113 @@
+!  MINIs-BSIP1  EMSL  Basis Set Exchange Library   1/26/18 2:23 PM
+! Elements                             References
+! --------                             ----------
+! H C N O F P S Cl: Alberto Otero-de-la-Roza and Gino A. DiLabio, Transferable Atom-Centered Potentials for the Correction of Basis Set Incompleteness Errors in Density-Functional Theory, J. Chem. Theory Comput. 13, 3505 (2017).
+! 
+! Summary: Basis-set incompleteness potentials for scaled MINI minimal basis set
+! Primary Developer: Alberto Otero de la Roza
+! Contributor: Alberto Otero de la Roza
+! Last Modified: Thu, 12 Oct 2017 19:55:20 GMT
+
+-H     0
+H-ECP     1     0
+ul potential
+  2
+2      0.2400000000           0.0168677440     
+2      0.4000000000          -0.0288854525     
+s-ul potential
+  3
+2      0.2200000000          -0.1935807925     
+2      0.4000000000           0.5351474528     
+2      2.0000000000          -0.9790535180     
+-C     0
+C-ECP     2     0
+ul potential
+  3
+2      0.1200000000           0.0053008843     
+2      0.1600000000          -0.0186781244     
+2      0.8000000000          -0.1812559534     
+s-ul potential
+  1
+2      2.0000000000           0.0696591835     
+p-ul potential
+  1
+2      0.2000000000           0.1042447558     
+-N     0
+N-ECP     2     0
+ul potential
+  1
+2      0.8000000000          -0.3987935484     
+s-ul potential
+  1
+2      0.0800000000           0.2476112669     
+p-ul potential
+  3
+2      0.0800000000          -0.1145888481     
+2      0.1400000000           0.1300385314     
+2      1.6000000000           0.4599990362     
+-O     0
+O-ECP     2     0
+ul potential
+  4
+2      0.0800000000          -0.0034102133     
+2      0.1000000000           0.0063209487     
+2      1.0000000000          -0.7013079751     
+2      2.0000000000           0.6566723539     
+s-ul potential
+  1
+2      1.0000000              0.0000000        
+p-ul potential
+  1
+2      0.2600000000           0.0653162389     
+-F     0
+F-ECP     2     0
+ul potential
+  2
+2      0.4000000000           0.0390122979     
+2      0.8000000000          -0.3904270988     
+s-ul potential
+  2
+2      0.0800000000          -0.1342428379     
+2      1.0000000000           0.4687690389     
+p-ul potential
+  1
+2      0.1000000000           0.0826130577     
+-P     0
+P-ECP     2     0
+ul potential
+  3
+2      0.1600000000           0.0405542910     
+2      0.2200000000          -0.1170630040     
+2      2.0000000000          -0.5564914073     
+s-ul potential
+  1
+2      0.4000000000           0.4510613911     
+p-ul potential
+  1
+2      0.6000000000           0.2011107759     
+-S     0
+S-ECP     2     0
+ul potential
+  3
+2      0.1400000000          -0.0315164714     
+2      0.2000000000           0.0511143319     
+2      0.4000000000          -0.3124541923     
+s-ul potential
+  1
+2      0.0800000000           0.1020918373     
+p-ul potential
+  1
+2      0.4000000000           0.1787235784     
+-CL     0
+CL-ECP     2     0
+ul-p potential
+  3
+2      0.1400000000           0.0253961112     
+2      0.2600000000          -0.1276193352     
+2      0.6000000000          -0.2088614077     
+s-p potential
+  1
+2      0.0800000000          -0.1010363762     
+p potential
+  1
+2      0.6000000000           0.2959360112     

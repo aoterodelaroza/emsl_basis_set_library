@@ -1,13 +1,12 @@
-!  MINI (Scaled)  EMSL  Basis Set Exchange Library   1/26/18 2:22 PM
-! S. HUZINAGA, ED.,J. ANDZELM, M. KLOBUKOWSKI, E. RADZIO-ANDZELM, Y. SAKAI, 
-!  H. TATEWAKI IN GAUSSIAN BASIS SETS FOR MOLECULAR CALCULATIONS: 
-!  ELSEVIER, AMSTERDAM, 1984. 
-!  VALENCE SCALE FACTORS FROM JOHN DEISZ OF NORTH DAKOTA STATE UNIVERSITY.
-!   
-! Summary: MB Minimal Basis: 1 Function/AO
-! Primary Developer: N/A
-! Contributor: Dr. David Feller
-! Last Modified: Mon, 15 Jan 2007 23:46:51 GMT
+!  MINIs-BSIP1  EMSL  Basis Set Exchange Library   1/26/18 2:23 PM
+! Elements                             References
+! --------                             ----------
+! H C N O F P S Cl: Alberto Otero-de-la-Roza and Gino A. DiLabio, Transferable Atom-Centered Potentials for the Correction of Basis Set Incompleteness Errors in Density-Functional Theory, J. Chem. Theory Comput. 13, 3505 (2017).
+! 
+! Summary: Basis-set incompleteness potentials for scaled MINI minimal basis set
+! Primary Developer: Alberto Otero de la Roza
+! Contributor: Alberto Otero de la Roza
+! Last Modified: Thu, 12 Oct 2017 19:55:20 GMT
 
 ****
 -H     0 

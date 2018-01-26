@@ -1,0 +1,43 @@
+!  Lanl2DZ+1d1f  EMSL  Basis Set Exchange Library   1/26/18 1:33 PM
+! Elements                             References
+! --------                             ----------
+! Rh: Otello M. Roscioni, Edmond P. F. Lee, John M. Dyke, Development and testing of a compact basis set for use in effective core potential calculations on rhodium complexes, Journal of Computational Chemistry 33(26):2049-57 (2012).
+! 
+! Summary: Lanl2DZ+1d1f
+! Primary Developer: Otello M. Roscioni
+! Contributor: Otello Maria Roscioni
+! Last Modified: Mon, 24 Sep 2012 23:05:45 GMT
+
+****
+-Rh     0 
+S   3   1.00
+      2.6460000             -1.3554084        
+      1.7510000              1.6112233        
+      0.5713000              0.5893814        
+S   4   1.00
+      2.6460000              1.1472137        
+      1.7510000             -1.4943525        
+      0.5713000             -0.8589704        
+      0.1438000              1.0297241        
+S   1   1.00
+      0.0428000              1.0000000        
+P   3   1.00
+      5.4400000             -0.0987699        
+      1.3290000              0.7433595        
+      0.4845000              0.3668462        
+P   2   1.00
+      0.6595000             -0.0838056        
+      0.0869000              1.0244841        
+P   1   1.00
+      0.0257000              1.0000000        
+D   3   1.00
+      3.6690000              0.0760059        
+      1.4230000              0.5158852        
+      0.5091000              0.5436585        
+D   1   1.00
+      0.1610000              1.0000000        
+D   1   1.00
+      0.0800000              1.0000000        
+F   1   1.00
+      0.5000000              1.0000000        
+****
