@@ -7,11 +7,10 @@ interface is nice to use, but sometimes the website has issues, hence
 this repository. It is also nice having text files to work with rather
 than an interface that requires a lot of mouse-clicking.
 
-For now, only a reduced set of the basis sets at the EMSL are provided
-as Gaussian gbs files. These can be added to your Gaussian
-calculations directly, without having to delete the atoms that are not
-in your molecule. More basis sets will be added, as well as scripts or
-programs to convert to other formats, etc. as I need them.
+The Gaussian gbs files can be added to your Gaussian calculations
+directly, without having to delete the atoms that are not in your
+molecule. More directories (format for other software, conversion
+tools, bibtex entries, etc.) will be added as I need them.
 
 All credit goes to Dr. David Feller and the many contributors to the
 EMSL basis set exchange. When publishing results obtained from use of
@@ -53,7 +52,4 @@ please cite:
 
 - `info/` : information about the basis sets, including literature
   references.
-
-More directories (format for other software, bibtex entries, etc.)
-will be added as needed.
 
