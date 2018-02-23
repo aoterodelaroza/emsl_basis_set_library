@@ -1,11 +1,3 @@
-!  pcJ-4_2006  EMSL  Basis Set Exchange Library   1/29/18 5:56 PM
-! Elements                             References
-! --------                             ----------
-! H C N O F Si P S Cl: Frank Jensen, The basis set convergence of spin-spin coupling constants calculated by density functional methods, J. Chem. Theory Comput. 2, 1360 (2006).
-! He B Ne Al Ar: Frank Jensen, olarization consistent basis sets. VI. The elements He, Li, Be, B, Ne, Na, Mg, Al, Ar, J. Phys. Chem. A 000, 000 (2007).
-! 
-
-****
 -H     0 
 S   3   1.00
       0.615934E+05           0.244497E-02     

@@ -1,14 +1,3 @@
-!  ccemd-3  EMSL  Basis Set Exchange Library   12/30/17 3:10 AM
-! Elements                             References
-! --------                             ----------
-! He H Be Li Ne C N F B O Mg Na Ar P Cl Al Si S: S. Lehtola, P. Manninen, M. Hakala, and K. Hämäläinen, Contraction of completeness-optimized basis sets: Application to ground-state electron momentum densities, J. Chem. Phys. 138, 044109 (2013).
-! 
-! Summary: The ccemd-3 basis set
-! Primary Developer: Susi Lehtola
-! Contributor: Susi Lehtola
-! Last Modified: Thu, 28 Feb 2013 00:52:01 GMT
-
-****
 -He     0 
 S   6   1.00
       1.8535735600E+03       3.2504184931E-03 

@@ -1,0 +1,9 @@
+!  Def2-SVPD  EMSL  Basis Set Exchange Library   1/10/18 4:24 PM
+! Elements                             References
+! --------                             ----------
+! H He Li Be B C N O F Ne Na Mg Al Si P S Cl Ar K Ca Sc Ti V Cr Mn Fe Co Ni Cu Zn Ga Ge As Se Br Kr Rb Sr Y Zr Nb Mo Tc Ru Rh Pd Ag Cd In Sn Sb Te I Xe Cs Ba La Hf Ta W Re Os Ir Pt Au Hg Tl Pb Bi Po At Rn: Dmitrij Rappoport,F. Furche, Property-optimized Gaussian basis sets for molecular response calculations, J. Chem. Phys. 133, 134105 (2010).
+! 
+! Summary: def2-SVPD Split-Valence basis set + Polarization + Diffuse basis functions
+! Primary Developer: Dmitrij Rappoport
+! Contributor: Dmitrij Rappoport
+! Last Modified: Fri, 22 Apr 2011 23:40:49 GMT

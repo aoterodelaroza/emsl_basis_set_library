@@ -1,14 +1,3 @@
-!  Pt - mDZP  EMSL  Basis Set Exchange Library   2/22/18 4:52 PM
-! Elements                             References
-! --------                             ----------
-! Pt: D. Paschoal, B. L. Marcial, J. Fedoce-Lopes, W. B. De Almeida, H. F. Dos Santos, The Role of the Basis Set and the Level of Quantum Mechanical Theory in the Prediction of the Structure and Reactivity of Cisplatin, Journal of Computational Chemistry 33, 2292-2302 (2012).
-! 
-! Summary: Pt - mDZP (all electron basis set)
-! Primary Developer: D. Paschoal
-! Contributor: Diego Paschoal
-! Last Modified: Tue, 02 Oct 2012 17:17:47 GMT
-
-****
 -Pt     0 
 S   10   1.00
  2791808.07651936            0.0001912        

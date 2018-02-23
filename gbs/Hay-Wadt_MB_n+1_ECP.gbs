@@ -1,15 +1,3 @@
-!  Hay-Wadt MB (n+1) ECP  EMSL  Basis Set Exchange Library   1/21/18 3:16 PM
-! Elements                             References
-! --------                             ----------
-! K - Au: P. J. Hay and W. R. Wadt, J. Chem. Phys. 82, 299 (1985). 
-!         P. J. Hay (Private Communication).
-!   
-! Summary: MB Minimal Basis Set designed for an ECP
-! Primary Developer: N/A
-! Contributor: Dr. David Feller
-! Last Modified: Mon, 15 Jan 2007 23:45:16 GMT
-
-****
 -K     0 
 S   5   1.00
       3.0720000             -0.3084300        

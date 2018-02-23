@@ -1,14 +1,3 @@
-!  aug-pcJ-2_2006  EMSL  Basis Set Exchange Library   11/15/17 10:31 AM
-! Elements                             References
-! --------                             ----------
-! H He B C N O F Ne Al Si P S Cl Ar: Frank Jensen, The Basis Set Convergence of Spin-Spin Coupling Constants Calculated by Density Functional Methods, J. Chem. Theo. Comp. 2, 1360 (2006).
-! 
-! Summary: N/A
-! Primary Developer: Frank Jensen
-! Contributor: Frank Jensen
-! Last Modified: Mon, 27 Dec 2010 21:11:59 GMT
-
-****
 -H     0 
 S   4   1.00
       0.235696E+05           0.783660E-04     

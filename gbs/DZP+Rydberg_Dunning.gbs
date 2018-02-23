@@ -1,21 +1,3 @@
-!  DZP + Rydberg (Dunning)  EMSL  Basis Set Exchange Library   1/15/18 3:17 PM
-! T.H. DUNNING, JR., J. CHEM. PHYS. 53, 2823 (1970). 
-!  T.H. DUNNING, JR. AND P.J. HAY, IN METHODS OF ELECTRONIC STRUCTURE THEORY, 
-!  VOL. 2, H.F. SCHAEFER III, ED., PLENUM PRESS (1977).
-!   
-!  H - F: T.H. DUNNING JR. AND P.J. HAY, IN METHODS OF ELECTRONIC STRUCTURE 
-!               THEORY VOL. 2, H.F. SCHAEFER III, ED., PLENUM PRESS (1977). 
-!   Si - Cl:    E. MAGNUSSON AND H.F. SCHAEFER III, JCP 83, 5721 (1985).
-!   
-! T.H. DUNNING, JR. AND P.J. HARRISON, IN MODERN THEORETICAL CHEMISTRY, VOL.2 
-!  ED. H.F. SCHAEFER III (PLENUM PRESS, NEW YORK, 1977).
-!   
-! Summary: DZP1R Double Zeta + Polarization on All Atoms
-! Primary Developer: N/A
-! Contributor: Dr. David Feller
-! Last Modified: Mon, 15 Jan 2007 23:45:19 GMT
-
-****
 -B     0 
 S   6   1.00
    2788.4100000              0.0021220        

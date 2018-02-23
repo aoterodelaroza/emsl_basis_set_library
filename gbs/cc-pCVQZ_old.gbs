@@ -1,25 +1,3 @@
-!  cc-pCVQZ(old)  EMSL  Basis Set Exchange Library   11/21/17 10:27 AM
-! Elements                             References
-! --------                             ----------
-! H     : T.H. Dunning, Jr. J. Chem. Phys. 90, 1007 (1989).
-! He    : D.E. Woon and T.H. Dunning, Jr. J. Chem. Phys. 100, 2975 (1994).
-! Li - Ne: T.H. Dunning, Jr. J. Chem. Phys. 90, 1007 (1989).
-! Na - Mg: D.E. Woon and T.H. Dunning, Jr.  (to be published)
-! Al - Ar: D.E. Woon and T.H. Dunning, Jr.  J. Chem. Phys. 98, 1358 (1993).
-! Ca     : J. Koput and K.A. Peterson, J. Phys. Chem. A, 106, 9595 (2002).
-! Sc - Zn: N.B. Balabanov and K.A. Peterson, J. Chem. Phys, 123, 064107 (2005)
-! Ga - Kr: A.K. Wilson, D.E. Woon, K.A. Peterson, T.H. Dunning, Jr. J. Chem. Phys., 110, 7667 (1999)
-! 
-! Elements                             References
-! --------                             ----------
-! Al - Ar: unpublished
-! 
-! Summary: QZ3P Quadruple Zeta + Polarization + Tight Core
-! Primary Developer: N/A
-! Contributor: Dr. David Feller
-! Last Modified: Mon, 15 Jan 2007 23:46:15 GMT
-
-****
 -Al     0 
 S   13   1.00
  419600.0000000              0.278219D-04     

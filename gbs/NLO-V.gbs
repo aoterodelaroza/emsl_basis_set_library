@@ -1,14 +1,3 @@
-!  NLO-V  EMSL  Basis Set Exchange Library   1/28/18 2:18 PM
-! Elements                             References
-! --------                             ----------
-! H B C N O F Si P S Cl: Diego Paschoal, Hélio F. Dos Santos, Assessing the quantum mechanical level of theory for prediction of linear and nonlinear optical properties of push-pull organic molecules, Journal of Molecular Modeling 19, 2079-2090 (2013) DOI: 10.1007/s00894-012-1644-4.
-! 
-! Summary: N/A
-! Primary Developer: Diego Paschoal
-! Contributor: Diego Paschoal
-! Last Modified: Sat, 26 Apr 2014 00:23:57 GMT
-
-****
 -H     0 
 S   3   1.00
      13.01070100000          0.0175900        

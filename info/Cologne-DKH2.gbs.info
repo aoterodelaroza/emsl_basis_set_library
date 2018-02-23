@@ -1,0 +1,9 @@
+!  Cologne DKH2  EMSL  Basis Set Exchange Library   12/30/17 3:20 AM
+! Elements                             References
+! --------                             ----------
+! La Ce Pr Nd Pm Sm Eu Gd Tb Dy Ho Er Tm Yb Lu: Michael Dolg, Segmented contracted Douglas-Kroll-Hess adapted basis sets for lanthanides, Journal of Chemical Theory and Computation 7, 3131 (2011).
+! 
+! Summary: Lanthanide (23s,16p,12d,6f)/[18s,12p,9d,3f] segmented contracted basis sets optimized for DKH2 calculations (preferably at the HF and/or DFT level)
+! Primary Developer: Michael Dolg
+! Contributor: Michael Dolg
+! Last Modified: Fri, 08 Jun 2012 18:48:14 GMT

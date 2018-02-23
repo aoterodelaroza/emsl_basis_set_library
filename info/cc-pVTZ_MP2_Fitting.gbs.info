@@ -1,0 +1,9 @@
+!  cc-pVTZ MP2 Fitting  EMSL  Basis Set Exchange Library   11/30/17 11:36 AM
+! Elements                             References
+! --------                             ----------
+! Sc Ti V Cr Mn Fe Co Ni Cu Zn: J. Grant Hill and James A. Platts, Auxiliary basis sets for density fitting-MP2 calculations: Non-relativistic triple-? all-electron correlation consistent basis sets for the 3d elements Sc-Zn, J. Chem. Phys. 128, 044104 (2008).
+! 
+! Summary: MP2 auxiliary basis to be used with cc-pVTZ-NR AO basis
+! Primary Developer: Grant Hill
+! Contributor: Grant Hill
+! Last Modified: Thu, 06 Nov 2008 18:53:32 GMT

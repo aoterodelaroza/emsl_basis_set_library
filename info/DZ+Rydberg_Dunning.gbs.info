@@ -1,0 +1,12 @@
+!  DZ + Rydberg (Dunning)  EMSL  Basis Set Exchange Library   1/15/18 3:13 PM
+! T.H. DUNNING, JR., J. CHEM. PHYS. 53, 2823 (1970). 
+!  T.H. DUNNING, JR. AND P.J. HAY, IN METHODS OF ELECTRONIC STRUCTURE THEORY, 
+!  VOL. 2, H.F. SCHAEFER III, ED., PLENUM PRESS (1977).
+!   
+! T.H. DUNNING, JR. AND P.J. HARRISON, IN MODERN THEORETICAL CHEMISTRY, VOL.2 
+!  ED. H.F. SCHAEFER III (PLENUM PRESS, NEW YORK, 1977).
+!   
+! Summary: DZ1R Double Zeta: 2 Functions/AO
+! Primary Developer: N/A
+! Contributor: Dr. David Feller
+! Last Modified: Mon, 15 Jan 2007 23:45:20 GMT

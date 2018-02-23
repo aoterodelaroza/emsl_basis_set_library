@@ -1,15 +1,3 @@
-!  cc-pCV6Z  EMSL  Basis Set Exchange Library   11/20/17 2:57 PM
-! Elements                             References
-! --------                             ----------
-! Al Si P S Cl Ar: J.G. Hill, S. Mazumder, and K.A. Peterson, Correlation consistent basis sets for molecular core-valence effects with explicitly correlated wave functions: The atoms B-Ne and Al-Ar, The Journal of chemical physics 132, 054108 (2010).
-! B C N O F Ne: A. K. Wilson, T. v. Mourik and T. H. Dunning, Jr., Gaussian basis sets for use in correlated molecular calculations. VI. Sextuple zeta correlation consistent basis sets for boron through neon, J. Mol. Struct. (THEOCHEM) 388, 339 (1997).
-! 
-! Summary: cc-pCV6Z
-! Primary Developer: Kirk Peterson
-! Contributor: Edoardo Apra
-! Last Modified: Thu, 16 Feb 2017 01:19:30 GMT
-
-****
 -B     0 
 S   11   1.00
  210400.0000000              0.00000583       

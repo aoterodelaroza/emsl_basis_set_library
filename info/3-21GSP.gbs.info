@@ -1,0 +1,10 @@
+!  3-21GSP  EMSL  Basis Set Exchange Library   9/21/17 11:42 AM
+! Elements                             References
+! --------                             ----------
+!  H - Ne: A.V. Mitin, G. Hirsch, R. J. Buenker, Chem. Phys. Lett. 259, 151 (1996)
+! Na - Ar: A.V. Mitin, G. Hirsch, R. J. Buenker, J. Comp. Chem. 18, 1200 (1997).
+!   
+! Summary: VDZD Valence Double Zeta
+! Primary Developer:N/A
+! Contributor: Dr. David Feller
+! Last Modified:Mon, 15 Jan 2007 23:47:07 GMT

@@ -1,15 +1,3 @@
-!  Feller Misc. CVQZ  EMSL  Basis Set Exchange Library   1/21/18 3:09 PM
-! Elements                             References
-! --------                             ----------
-! K : (s,p) exponents from H. Partridge 
-!     Polarization and core/valence exponents from D. Feller, (to be published)
-!   
-! Summary: QZ3P Quadruple Zeta + Polarization on All Atoms
-! Primary Developer: N/A
-! Contributor: Dr. David Feller
-! Last Modified: Mon, 15 Jan 2007 23:45:57 GMT
-
-****
 -K     0 
 S   17   1.00
  3552528.0000000             0.5018861113764E-05      

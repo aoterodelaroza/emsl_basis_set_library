@@ -28,3 +28,32 @@ please cite:
   J. Chem. Inf. Model., 47(3), 1045-1052, 2007, doi:10.1021/ci600510j.
 ```
 
+## Contents of the library
+
+- `gbs/` : basis sets in Gaussian format. Use these files in Gaussian
+  like this:
+  ```
+  # b3lyp gen
+  [...]
+  
+  @mybasis.gbs/N
+  
+  ```
+  or, if you have a pseudopotential to go with it, like this:
+  ```
+  # b3lyp genecp
+  [...]
+  
+  @mybasis.gbs/N
+  
+  @mybasis.ecp/N
+  
+  ```
+- `ecp/` : effective core potentials in Gaussian format.
+
+- `info/` : information about the basis sets, including literature
+  references.
+
+More directories (format for other software, bibtex entries, etc.)
+will be added as needed.
+

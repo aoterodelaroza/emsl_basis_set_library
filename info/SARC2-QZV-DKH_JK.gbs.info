@@ -1,0 +1,9 @@
+!  SARC2-QZV-DKH/JK  EMSL  Basis Set Exchange Library   2/22/18 5:10 PM
+! Elements                             References
+! --------                             ----------
+! Ce Dy Er Eu Gd Ho La Lu Nd Pm Pr Sm Tb Tm Yb: Daniel Aravena, Frank Neese, Dimitrios A. Pantazis, Improved Segmented All-Electron Relativistically Contracted Basis Sets for the Lanthanides, J. Chem. Theory Comput. 12, 1148-1156 (2016).
+! 
+! Summary: RI/JK auxiliar basis for SARC2-QZV-DKH
+! Primary Developer: D. Aravena, D. Pantazis and F. Neese
+! Contributor: Daniel Aravena
+! Last Modified: Mon, 01 Aug 2016 23:28:18 GMT

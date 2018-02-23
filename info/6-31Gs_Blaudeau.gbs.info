@@ -1,0 +1,16 @@
+!  6-31G*-Blaudeau  EMSL  Basis Set Exchange Library   9/25/17 1:37 PM
+! Elements                             References
+! --------                             ----------
+! K  - Ca: J-P. Blaudeau, M. P. McGrath, L.A. Curtiss and L. Radom,
+!          J. Chem. Phys. 107, 5016 (1997).
+!   
+! Elements                             References
+! --------                             ----------
+! K  - Ca: J-P. Blaudeau, M. P. McGrath, L.A. Curtiss and L. Radom, J. Chem. Phys.
+!          107, 5016 (1997)
+!   
+!
+! Summary: VDZP Valence Double Zeta + Polarization on All Atoms
+! Primary Developer: N/A
+! Contributor: Dr. David Feller
+! Last Modified: Mon, 15 Jan 2007 23:47:00 GMT

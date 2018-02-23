@@ -1,0 +1,11 @@
+!  TZP  EMSL  Basis Set Exchange Library   2/22/18 6:38 PM
+! Elements                             References
+! --------                             ----------
+! H Li Be B C N O F Ne Na Mg Al Si P S Cl Ar: P. L. Barbieri, P. A. Fantin, and F. E. Jorge, Gaussian basis sets of triple and quadruple zeta valence quality for correlated wave functions, Mol. Phys. 104, 2945 (2006).
+! K Ca Sc Ti V Cr Mn Fe Co Ni Cu Zn Ga Ge As Se Br Kr: S. F. Machado, G. G. Camiletti, A. Canal Neto, F. E. Jorge, and Raquel S. Jorge, Gaussian basis set of triple zeta valence quality for the atoms from K to Kr: Application in DFT and CCSD(T) calculations of molecular properties, Mol. Phys. 107, 1713 (2009).
+! Rb Y Zr Nb Mo Tc Ru Rh Pd Ag Cd In Sn Sb Te I Xe: C. T. Campos and F. E. Jorge, Triple zeta quality basis sets for atoms Rb through Xe: application in CCSD(T) atomic and molecular property calculations, Mol. Phys. 111, 167 (2013).
+! 
+! Summary: All-electron triple zeta plus polarization functions.
+! Primary Developer: N/A
+! Contributor: Susi Lehtola
+! Last Modified: Mon, 05 May 2014 22:11:24 GMT

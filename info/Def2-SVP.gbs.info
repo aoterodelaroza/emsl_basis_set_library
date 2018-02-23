@@ -1,0 +1,11 @@
+!  Def2-SVP  EMSL  Basis Set Exchange Library   1/10/18 4:22 PM
+! Elements                             References
+! --------                             ----------
+! H He Li Be B C N O F Ne Na Mg Al Si P S Cl Ar K Ca Sc Ti V Cr Mn Fe Co Ni Cu Zn Ga Ge As Se Br Kr Rb Sr Y Zr Nb Mo Tc Ru Rh Pd Ag Cd In Sn Sb Te I Xe Cs Ba La Hf Ta W Re Os Ir Pt Au Hg Tl Pb Bi Po At Rn : F. Weigend and R. Ahlrichs, Phys. Chem. Chem. Phys., Balanced basis sets of split valence, triple zeta valence and quadruple zeta valence
+! quality for H to Rn: Design and assessment of accuracy 7, 3297 (2005).
+! 
+! "Def2-SVP" Basis Set Information
+! Summary: N/A
+! Primary Developer: F. Weigend and R. Ahlrichs
+! Contributor: Florian Weigend
+! Last Modified: Tue, 06 Jan 2009 01:12:28 GMT

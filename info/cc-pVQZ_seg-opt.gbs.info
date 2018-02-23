@@ -1,0 +1,13 @@
+!  cc-pVQZ(seg-opt)  EMSL  Basis Set Exchange Library   11/28/17 11:07 AM
+! Elements                             References
+! --------                             ----------
+!  H     : T.H. Dunning, Jr. J. Chem. Phys. 90, 1007 (1989).
+!  He    : D.E. Woon and T.H. Dunning, Jr. J. Chem. Phys. 100, 2975 (1994).
+! Li - Ne: T.H. Dunning, Jr. J. Chem. Phys. 90, 1007 (1989).
+! Na - Mg: D.E. Woon and T.H. Dunning, Jr.  (to be published)
+! Al - Ar: D.E. Woon and T.H. Dunning, Jr.  J. Chem. Phys. 98, 1358 (1993).
+!   
+! Summary: VQZ3P Valence Quadruple Zeta + Polarization on All Atoms
+! Primary Developer: N/A
+! Contributor: Dr. David Feller
+! Last Modified: Mon, 15 Jan 2007 23:46:30 GMT

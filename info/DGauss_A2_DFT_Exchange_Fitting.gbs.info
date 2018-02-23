@@ -1,0 +1,10 @@
+!  DGauss A2 DFT Exchange Fitting  EMSL  Basis Set Exchange Library   1/10/18 4:39 PM
+! Elements                             References
+! --------                             ----------
+! H - Xe: N. Godbout, D. R. Salahub, J. Andzelm, and E. Wimmer, Can. J. Chem. 70,
+!         560 (1992). DGauss basis sets provided courtesy of Cray Research, Inc.
+!   
+! Summary: DFT Exchange Fitting
+! Primary Developer: N/A
+! Contributor: Dr. David Feller
+! Last Modified: Mon, 15 Jan 2007 23:45:00 GMT

@@ -1,0 +1,10 @@
+!  QZP  EMSL  Basis Set Exchange Library   2/22/18 4:55 PM
+! Elements                             References
+! --------                             ----------
+! H He Li Be B C N O F Ne Na Mg Al Si P S Cl Ar: P. L. Barbieri, P. A. Fantin, and F. E. Jorge, Gaussian basis sets of triple and quadruple zeta valence quality for correlated wave functions, Mol. Phys. 104, 2945 (2006).
+! K Ca Sc Ti V Cr Mn Fe Co Ni Cu Zn Ga Ge As Se Br Kr Rb Sr Y Zr Nb Mo Tc Ru Rh Pd Ag Cd In Sn Sb Te I Xe: G. A. Ceolin, R. C. de Berrêdo and F. E. Jorge, Gaussian basis sets of quadruple zeta quality for potassium through xenon: application in CCSD(T) atomic and molecular property calculations, Theor. Chem. Acc. 132, 1339 (2013).
+! 
+! Summary: All-electron quadruple zeta plus polarization functions.
+! Primary Developer: N/A
+! Contributor: Susi Lehtola
+! Last Modified: Fri, 25 Apr 2014 19:50:50 GMT

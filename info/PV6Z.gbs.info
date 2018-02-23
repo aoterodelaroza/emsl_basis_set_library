@@ -1,0 +1,15 @@
+!  pV6Z  EMSL  Basis Set Exchange Library   2/22/18 4:53 PM
+! Elements                             References
+! --------                             ----------
+! H:         T. H. Dunning, Jr., (to be published). 
+! C:         A.D. Pradhan, H. Partridge and C.W. Bauschlicher, Jr., J. Chem.
+!            Phys. 101, 3857 (1994) with correction to the p set.
+! O:         (s,p) set from H. Partridge, (d,f,g) from T.H. Dunning, Jr., 
+!            (h,i) from D. Feller.
+! N:         C.W. Bauschlicher, Jr. and H. Partridge, J. Chem. Phys. 100,
+!            4329 (1994).
+!   
+! Summary: V6Z5P Valence Sextuple Zeta + Polarization on All Atoms
+! Primary Developer: N/A
+! Contributor: Dr. David Feller
+! Last Modified: Mon, 15 Jan 2007 23:46:36 GMT

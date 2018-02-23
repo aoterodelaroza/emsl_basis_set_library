@@ -1,15 +1,3 @@
-!  cc-pCVDZ-F12_OPTRI  EMSL  Basis Set Exchange Library   11/21/17 10:26 AM
-! Elements                             References
-! --------                             ----------
-! B C N O F Ne Al Si P S Cl Ar: J.G. Hill, S. Mazumder, and K.A. Peterson, Correlation consistent basis sets for molecular core-valence effects with explicitly correlated wave functions: the atoms B-Ne and Al-Ar, Journal of Chemical Physics 132, 054108 (2010).
-! Li Be Na Mg: J. Grant Hill and Kirk A. Peterson, Correlation consistent basis sets for explicitly correlated wavefunctions: valence and core?valence basis sets for Li, Be, Na, and Mg, Physical Chemistry Chemical Physics 12, 10460 (2010).
-! 
-! Summary: CABS RI basis sets for F12 matched to cc-pCVnZ-F12 orbital basis sets
-! Primary Developer: Kirk Peterson
-! Contributor: Kirk Peterson
-! Last Modified: Fri, 08 Jun 2012 18:40:22 GMT
-
-****
 -Li     0 
 S   1   1.00
      15.1750978              1.0000000        

@@ -1,16 +1,3 @@
-!  aug-mcc-pVQZ  EMSL  Basis Set Exchange Library   11/6/17 10:55 AM
-! Elements                             References
-! --------                             ---------
-! H    : S.L. Mielke, B.C. Garrett and K.A. Peterson, J. Chem. Phys. 111, 3806
-! (1999).
-! 
-! "aug-mcc-pVQZ" Basis Set Information
-! Summary: VQZ3PD Valence Quadruple Zeta + Polarization + Diffuse
-! Primary Developer: N/A
-! Contributor: Dr. David Feller
-! Last Modified: Tue, 16 Dec 2008 22:22:32 GMT
-
-****
 -H     0 
 S   6   1.00
      82.6400000              0.0020060        

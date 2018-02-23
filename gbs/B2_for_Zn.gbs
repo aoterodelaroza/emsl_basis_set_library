@@ -1,14 +1,3 @@
-!  B2 basis set for Zn  EMSL  Basis Set Exchange Library   11/20/17 2:49 PM
-! Elements                             References
-! --------                             ----------
-! E. A. Amin and D. G. Truhlar, J. Chem. Theory Comput. 2008, 4, 75.
-! 
-! Summary: N/A
-! Primary Developer: Elizabeth A. Amin
-! Contributor: Elizabeth Amin
-! Last Modified: Fri, 23 Oct 2009 21:22:30 GMT
-
-****
 -Zn     0 
 S   6   1.00
  316336.0000000              0.0006494033039  

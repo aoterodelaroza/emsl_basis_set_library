@@ -1,0 +1,27 @@
+!  3-21++G*  EMSL  Basis Set Exchange Library   9/21/17 11:36 AM
+! Elements                             References
+! --------                             ----------
+! H - Ne: J.S. Binkley, J.A. Pople, W.J. Hehre, J. Am. Chem. Soc 102 939 (1980)
+! Na - Ar: M.S. Gordon, J.S. Binkley, J.A. Pople, W.J. Pietro and W.J. Hehre,
+! J. Am. Chem. Soc. 104, 2797 (1983).
+! K - Ca: K.D. Dobbs, W.J. Hehre, J. Comput. Chem. 7, 359 (1986).
+! Ga - Kr: K.D. Dobbs, W.J. Hehre, J. Comput. Chem. 7, 359 (1986).
+! Sc - Zn: K.D. Dobbs, W.J. Hehre, J. Comput. Chem. 8, 861 (1987).
+! Y - Cd: K.D. Dobbs, W.J. Hehre, J. Comput. Chem. 8, 880 (1987).
+! Cs     : A 3-21G quality set derived from the Huzinage MIDI basis sets.
+! E.D. Glendening and D. Feller, J. Phys. Chem. 99, 3060 (1995)
+! 
+! Elements                             Reference
+! --------                             ----------
+! H, Li-Cl: T. Clark, J. Chandrasekhar,  G.W. Spitznagel, P.V.R. Schleyer, 
+!           J. Comp. Chem. 4, 294 (1983).
+!   
+! Elements                             Reference
+! --------                             ----------
+! Na - Ar:  W.J. Pietro, M.M. Francl, W.J. Hehre, D.J. DeFrees, J.A. Pople and 
+!           J.S. Binkley, J. Am. Chem. Soc. 104, 5039 (1982)
+!   
+! Summary:VDZD Valence Double Zeta + Diffuse Functions + Polarization
+! Primary Developer:N/A
+! Contributor:Dr. David Feller
+! Last Modified:Mon, 15 Jan 2007 23:47:07 GMT

@@ -1,0 +1,11 @@
+!  aug-cc-pV(7+d)Z  EMSL  Basis Set Exchange Library   10/31/17 8:46 AM
+! Elements                             References
+! --------                             ----------
+! S Cl: D. Feller, K. A. Peterson, and J. G. Hill, On the effectiveness of CCSD(T) complete basis set extrapolations for atomization energies, Journal of Chemical Physics 135, 044102 (2011).
+! Si P: D. Feller, Benchmarks of improved complete basis set extrapolation schemes designed for standard CCSD(T) atomization energies, Journal of Chemical Physics 138, 074103 (2013).
+! 
+! "aug-cc-pV(7+d)Z" Basis Set Information
+! Summary: aug-cc-pV(7+d)Z basis set from David Feller
+! Primary Developer: David Feller
+! Contributor: Jan M.L. Martin
+! Last Modified: Wed, 11 Oct 2017 19:45:22 GMT

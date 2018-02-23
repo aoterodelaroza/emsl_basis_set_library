@@ -1,15 +1,3 @@
-!  Ahlrichs VTZ  EMSL  Basis Set Exchange Library   10/29/17 2:51 PM
-! Elements                             References
-! --------                             ----------
-! H - Kr: A. Schafer, H. Horn and R. Ahlrichs, J. Chem. Phys. 97, 2571 (1992).
-!   
-! "Ahlrichs VTZ" Basis Set Information
-! Summary: VTZ Valence Triple Zeta: 3 Funct.'s/Valence AO
-! Primary Developer: N/A
-! Contributor: Dr. David Feller
-! Last Modified: Mon, 15 Jan 2007 23:45:25 GMT
-
-****
 -H     0 
 S   3   1.00
      34.0613410              0.60251978E-02   

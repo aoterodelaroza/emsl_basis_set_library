@@ -1,0 +1,10 @@
+!  cc-pVQZ-F12_OPTRI  EMSL  Basis Set Exchange Library   11/28/17 11:11 AM
+! Elements                             References
+! --------                             ----------
+! H B C N O F Ne Al Si P S Cl Ar: K.E. Yousaf and K.A. Peterson, Optimized auxiliary basis sets for explicitly correlated methods, Journal of Chemical Physics 129, 184108 (2008).
+! Li Be Na Mg: J. Grant Hill and Kirk A. Peterson, Correlation consistent basis sets for explicitly correlated wavefunctions: valence and core?valence basis sets for Li, Be, Na, and Mg, Physical Chemistry Chemical Physics 12, 10460 (2010).
+! 
+! Summary: CABS RI basis sets for F12 matched to cc-pVnZ-F12 orbital basis sets
+! Primary Developer: Kirk Peterson
+! Contributor: Kirk Peterson
+! Last Modified: Fri, 08 Jun 2012 18:46:12 GMT

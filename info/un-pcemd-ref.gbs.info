@@ -1,0 +1,9 @@
+!  un-pcemd-ref  EMSL  Basis Set Exchange Library   2/22/18 6:44 PM
+! Elements                             References
+! --------                             ----------
+! He H Be Li Ne C N F B O Mg Na Ar P Cl Al Si S: S. Lehtola, P. Manninen, M. Hakala, and K. Hämäläinen, Contraction of completeness-optimized basis sets: Application to ground-state electron momentum densities, J. Chem. Phys. 138, 044109 (2013).
+! 
+! Summary: The un-pcemd-ref basis set
+! Primary Developer: Susi Lehtola
+! Contributor: Susi Lehtola
+! Last Modified: Thu, 28 Feb 2013 00:53:51 GMT

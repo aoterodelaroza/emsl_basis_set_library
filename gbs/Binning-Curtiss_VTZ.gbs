@@ -1,13 +1,3 @@
-!  Binning/Curtiss VTZ  EMSL  Basis Set Exchange Library   11/20/17 2:54 PM
-! R. C. BINNING AND L. A. CURTISS, J. COMP. CHEM. 11, 1206 (1990). 
-!  T. H. DUNNING, JR. J. CHEM. PHYS. 66, 1382 (1977).
-!   
-! Summary: VTZ Valence Triple Zeta: 3 Functions/valence AO
-! Primary Developer: N/A
-! Contributor: Dr. David Feller
-! Last Modified: Mon, 15 Jan 2007 23:45:23 GMT
-
-****
 -Ga     0 
 S   6   1.00
  457600.0000000              0.0002210        

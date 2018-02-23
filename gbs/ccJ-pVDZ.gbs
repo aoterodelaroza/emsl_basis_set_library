@@ -1,14 +1,3 @@
-!  ccJ-pVDZ  EMSL  Basis Set Exchange Library   12/30/17 3:12 AM
-! Elements                             References
-! --------                             ----------
-! H He B C N O F Ne: Udo Benedikt, Alexander A. Auer, Frank Jensen, Optimization of Augmentation Functions for Correlated Calculations of Spin-Spin Coupling Constants and Related Properties, J. Chem. Phys. 129, 064111 (2008).
-! 
-! Summary: augmented double zeta Dunning basis sets optimized for spin-spin coupling constants
-! Primary Developer: Udo Benedikt, Alexander Auer
-! Contributor: Udo Benedikt
-! Last Modified: Wed, 17 Dec 2008 23:46:34 GMT
-
-****
 -H     0 
 S   2   1.00
    3434.6400000              0.0250607        

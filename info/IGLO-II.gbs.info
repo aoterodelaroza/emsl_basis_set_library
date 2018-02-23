@@ -1,0 +1,9 @@
+!  IGLO-II  EMSL  Basis Set Exchange Library   1/21/18 3:24 PM
+! W. Kutzelnigg, U. Fleischer, M. Schindler, The IGLO-Method: Ab Initio
+! Calculation and Interpretation of NMR Chemical Shifts and Magnetic 
+! Susceptibilities, Springer-Verlag, Heidelberg, 1990, vol. 23.
+!   
+! Summary: VDZP Valence Double Zeta + Polarization on All Atoms
+! Primary Developer: N/A
+! Contributor: Dr. David Feller
+! Last Modified: Mon, 15 Jan 2007 23:46:43 GMT

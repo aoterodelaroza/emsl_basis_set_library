@@ -1,0 +1,16 @@
+!  aug-cc-pV5Z Diffuse  EMSL  Basis Set Exchange Library   10/31/17 8:48 AM
+! Elements                             References
+! --------                             ---------
+! H    :  T.H. Dunning, Jr. J. Chem. Phys. 90, 1007 (1989).
+! Diffuse s exponent - S. Mielke
+! He   :  D.E. Woon and T.H. Dunning, Jr., J. Chem. Phys. 100, 2975 (1994).
+! B - F:  R.A. Kendall, T.H. Dunning, Jr. and R.J. Harrison, J. Chem. Phys. 96,
+! 6796 (1992).
+! Al - Cl: D.E. Woon and T.H. Dunning, Jr. J. Chem. Phys. 98, 1358 (1993).
+! Sc - Zn: N.B. Balabanov and K.A. Peterson, J. Chem. Phys, 123, 064107 (2005)
+! 
+! "aug-cc-pV5Z Diffuse" Basis Set Information
+! Summary: 1D Diffuse Functions
+! Primary Developer: N/A
+! Contributor: Dr. David Feller
+! Last Modified: Wed, 13 Apr 2011 22:01:40 GMT

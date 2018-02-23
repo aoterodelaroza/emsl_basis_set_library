@@ -1,0 +1,10 @@
+!  Partridge Uncontracted 2  EMSL  Basis Set Exchange Library   1/28/18 2:22 PM
+! Elements                             References
+! --------                             ----------
+! Li - Ne, K - Zn: H. Partridge, J. Chem. Phys. 90, 1043 (1989).
+! Na - Ar:         H. Partridge, J. Chem. Phys. 87, 6643 (1987).
+! 
+! Summary: 1D UNCONTR Uncontracted (s,p) Sets (Intermediate)
+! Primary Developer: N/A
+! Contributor: Dr. David Feller
+! Last Modified: Wed, 20 Jan 2010 23:28:23 GMT

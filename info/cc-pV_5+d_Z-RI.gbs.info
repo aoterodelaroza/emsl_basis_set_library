@@ -1,0 +1,9 @@
+!  cc-pV(5+d)Z-RI  EMSL  Basis Set Exchange Library   11/22/17 10:24 AM
+! Elements                             References
+! --------                             ----------
+! Al Si P S Cl Ar : Christof Hattig, Optimization of auxiliary basis sets for RI-MP2 and RI-CC2 calculations: Core-valence and quintuple-? basis sets for H to Ar and QZVPP basis sets for Li to Kr, Physical Chemistry Chemical Physics 7, 59 (2005).
+! 
+! Summary: N/A
+! Primary Developer: Christof Hattig
+! Contributor: Christof Hattig
+! Last Modified: Wed, 30 Apr 2008 23:59:29 GMT

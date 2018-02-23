@@ -1,0 +1,15 @@
+!  cc-pwCV5Z  EMSL  Basis Set Exchange Library   12/1/17 11:55 AM
+! Elements                             References
+! --------                             ----------
+! B  - Ne: K.A. Peterson and T.H. Dunning, Jr. J. Chem. Phys. 117, 10548 (2002).
+! Al - Ar:
+! 
+! Elements                             References
+! --------                             ----------
+! B  - Ne: K.A. Peterson and T.H. Dunning, Jr. J. Chem. Phys. (submitted)
+! Al - Ar: 
+!   
+! Summary: 5Z4P Quintuple Zeta + Polarization + Tight Core
+! Primary Developer: N/A
+! Contributor: Dr. David Feller
+! Last Modified: Mon, 15 Jan 2007 23:46:18 GMT

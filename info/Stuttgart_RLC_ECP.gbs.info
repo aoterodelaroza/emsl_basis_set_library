@@ -1,0 +1,16 @@
+!  Stuttgart RLC ECP  EMSL  Basis Set Exchange Library   2/22/18 6:12 PM
+! Elements                             References
+! --------                             ----------
+! Li - Be: P. Fuentealba, H. Preuss, H. Stoll, L. v. Szentpaly, Chem. Phys. Lett.
+! Na       89, 418 (1982).
+! B  - Ne: A. Bergner, M. Dolg, W. Kuechle, H. Stoll, H. Preuss, Mol. Phys. 80,
+!          1431 (1993).
+! Mg     : P. Fuentealba, L. v. Szentpaly, H. Preuss, H. Stoll, J. Phys. B 18, 
+!          1287 (1985).
+! Al     : G. Igel-Mann, H. Stoll, H. Preuss, Mol. Phys. 65, 1321 (1988).
+! Hg - Rn: W. Kuechle, M. Dolg, H. Stoll, H. Preuss, Mol. Phys. 74, 1245 (1991).
+!   
+! Summary: DZ Double Zeta Basis Set designed for an ECP
+! Primary Developer: N/A
+! Contributor: Dr. David Feller
+! Last Modified: Mon, 15 Jan 2007 23:45:11 GMT

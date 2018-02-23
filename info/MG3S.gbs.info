@@ -1,0 +1,9 @@
+!  MG3S  EMSL  Basis Set Exchange Library   1/26/18 2:17 PM
+! Elements                             References
+! --------                             ----------
+! H He Li Be B C N O F Ne Na Mg Al Si P S Cl Ar: Lynch, B.J.; Zhao, Y.; Truhlar, D.G., Effectiveness of Diffuse Basis Functions for Calculating Relative Energies by Density Functional Theory, J. Phys. Chem. A 107, 1384-1388 (2003).
+! 
+! Summary: MG3S is a triple-zeta polarized basis set with diffuse functions on all heavy atoms. It is a modification of Pople's 6-311++G** basis set.
+! Primary Developer: Donald G. Truhlar
+! Contributor: Hannah Leverentz
+! Last Modified: Thu, 14 Jun 2012 18:54:39 GMT

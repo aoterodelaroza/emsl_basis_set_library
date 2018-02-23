@@ -1,0 +1,12 @@
+!  STO-6G  EMSL  Basis Set Exchange Library   2/22/18 6:11 PM
+! Elements                             References
+! --------                             ----------
+! H - Ne:  W.J. Hehre, R.F. Stewart and J.A. Pople, J. Chem. Phys. 51, 2657
+! (1969).
+! Na - Ar:  W.J. Hehre, R. Ditchfield, R.F. Stewart and J.A. Pople,
+! J. Chem. Phys. 52, 2769 (1970).
+! 
+! Summary: MB Minimal Basis: 1 Function/AO
+! Primary Developer: N/A
+! Contributor: Dr. David Feller
+! Last Modified: Tue, 01 Jul 2008 22:02:42 GMT

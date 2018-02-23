@@ -1,0 +1,9 @@
+!  pcJ-3  EMSL  Basis Set Exchange Library   1/29/18 5:54 PM
+! Elements                             References
+! --------                             ----------
+! H He B C N O F Ne Al Si P S Cl Ar: Frank Jensen, The Optimum Contraction of Basis Sets for Calculating Spin-Spin Coupling Constants, Theor. Chem. Acc. 126, 371 (2010).
+! 
+! Summary: N/A
+! Primary Developer: Frank Jensen
+! Contributor: Frank Jensen
+! Last Modified: Mon, 27 Dec 2010 21:28:22 GMT

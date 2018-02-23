@@ -1,10 +1,3 @@
-! Elements                             References
-! --------                             ----------
-! Na - Hg: P. J. Hay and W. R. Wadt, J. Chem. Phys. 82, 270 (1985).
-! P. J. Hay and W. R. Wadt, J. Chem. Phys. 82, 284 (1985).
-! P. J. Hay and W. R. Wadt, J. Chem. Phys. 82, 299 (1985).
-! 
-
 -SC     0
 SC-ECP     2     10
 d-ul potential

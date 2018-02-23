@@ -1,15 +1,3 @@
-!  cc-pV(6+d)Z  EMSL  Basis Set Exchange Library   11/22/17 10:25 AM
-! Elements                             References
-! --------                             ----------
-! Al - Ar:   T. H. Dunning, Jr., K.A. Peterson and A.K. Wilson, J. Chem. Phys.
-! 114, 9244 (2001).
-! 
-! Summary: V6Z5P Valence Sextuple Zeta + Polarization on All Atoms
-! Primary Developer: N/A
-! Contributor: Dr. David Feller
-! Last Modified: Mon, 18 Mar 2013 20:39:22 GMT
-
-****
 -Al     0 
 S   16   1.00
  3652000.0000000             0.0000019        

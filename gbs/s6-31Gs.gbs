@@ -1,14 +1,3 @@
-!  s6-31G*  EMSL  Basis Set Exchange Library   2/22/18 5:04 PM
-! Elements                             References
-! --------                             ----------
-! Sc-Zn: M. Swart, M. Güell, J.M. Luis and M. Solà, Spin-state corrected Gaussian-type orbital basis sets, J. Phys. Chem. A 114, 7191?7197 (2010).
-! 
-! Summary: Spin-state corrected 6-31G* basis set
-! Primary Developer: M. Swart
-! Contributor: Marcel Swart
-! Last Modified: Thu, 15 Jul 2010 20:09:15 GMT
-
-****
 -Sc     0 
 S   6   1.00
   39088.980000000            0.00180326       

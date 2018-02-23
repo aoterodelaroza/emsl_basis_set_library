@@ -1,0 +1,10 @@
+!  Pople-style Diffuse  EMSL  Basis Set Exchange Library   2/22/18 4:50 PM
+! Elements                             Reference
+! --------                             ----------
+! H, Li-Cl: T. Clark, J. Chandrasekhar,  G.W. Spitznagel, P.V.R. Schleyer, 
+!           J. Comp. Chem. 4, 294 (1983).
+!   
+! Summary: 1D Shared exponent, diffuse (s,p)
+! Primary Developer: N/A
+! Contributor: Dr. David Feller
+! Last Modified: Mon, 15 Jan 2007 23:44:39 GMT

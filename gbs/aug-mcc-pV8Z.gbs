@@ -1,16 +1,3 @@
-!  aug-mcc-pV8Z  EMSL  Basis Set Exchange Library   11/6/17 10:54 AM
-! Elements                             References
-! --------                             ---------
-! H    : S. L. Mielke, D. W. Schwenke, and K. A. Peterson
-! J. Chem. Phys. 122, 224313 (2005)
-! 
-! "aug-mcc-pV8Z" Basis Set Information
-! Summary: V8Z7P Valence Octuple Zeta + Polarization on All Atoms
-! Primary Developer: N/A
-! Contributor: Dr. David Feller
-! Last Modified: Tue, 16 Dec 2008 22:18:36 GMT
-
-****
 -H     0 
 S   8   1.00
   13940.8000000              0.00000301       

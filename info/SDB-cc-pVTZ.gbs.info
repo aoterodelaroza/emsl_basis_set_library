@@ -1,0 +1,10 @@
+!  SDB-cc-pVTZ  EMSL  Basis Set Exchange Library   2/22/18 5:30 PM
+! Elements                             References
+! --------                             ----------
+! Ga - Kr: J.M.L. Martin and A. Sundermann, J. Chem. Phys. 114, 3408 (2001). 
+! In - Xe: 
+!   
+! Summary: VTZ2P Valence Triple Zeta + Polarization on All Atoms
+! Primary Developer: N/A
+! Contributor: Dr. David Feller
+! Last Modified: Sat, 23 Apr 2011 00:13:29 GMT

@@ -1,15 +1,3 @@
-!  cc-pV(D+d)Z  EMSL  Basis Set Exchange Library   11/22/17 10:26 AM
-! Elements                             References
-! --------                             ----------
-! Al - Ar: T.H. Dunning, Jr., K.A. Peterson and A.K. Wilson, J. Chem. Phys. 114,
-! 9244 (2001)
-!   
-! Summary: VDZP Valence Double Zeta + Polarization on All Atoms
-! Primary Developer: N/A
-! Contributor: Dr. David Feller
-! Last Modified: Mon, 15 Jan 2007 23:46:09 GMT
-
-****
 -Al     0 
 S   11   1.00
   64150.0000000              0.290250D-03     

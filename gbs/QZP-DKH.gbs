@@ -1,15 +1,3 @@
-!  QZP-DKH  EMSL  Basis Set Exchange Library   2/22/18 4:56 PM
-! Elements                             References
-! --------                             ----------
-! H He Li Be B C N O F Ne Na Mg Al Si P S Cl Ar: F. E. Jorge, A. Canal Neto, G. G. Camiletti, and S. F. Machado, Contracted Gaussian basis sets for Douglas?Kroll?Hess calculations: Estimating scalar relativistic effects of some atomic and molecular properties, Journal of Chemical Physics 130, 064108 (2009).
-! K Ca Sc Ti V Cr Mn Fe Co Ni Cu Zn Ga Ge As Se Br Kr Rb Sr Y Zr Nb Mo Tc Ru Rh Pd Ag Cd In Sn Sb Te I Xe: G. A. Ceolin, R. C. de Berrêdo, and F. E. Jorge, Gaussian basis sets of quadruple zeta quality for potassium through xenon: application in CCSD(T) atomic and molecular property calculations, Theoretical Chemistry Accounts 132, 1339 (2013).
-! 
-! Summary: All-electron quadruple zeta valence quality plus polarization functions
-! Primary Developer: N/A
-! Contributor: Susi Lehtola
-! Last Modified: Tue, 13 May 2014 20:38:54 GMT
-
-****
 -H     0 
 S   3   1.00
     114.56539174             0.0202297        

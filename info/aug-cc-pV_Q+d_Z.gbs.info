@@ -1,0 +1,16 @@
+!  aug-cc-pV(Q+d)Z  EMSL  Basis Set Exchange Library   10/31/17 8:41 AM
+! Elements                             References
+! --------                             ----------
+! Al - Ar: T.H. Dunning, Jr., K.A. Peterson and A.K. Wilson, J. Chem. Phys. 114, 
+! 9244 (2001)
+!   
+! Elements                             References
+! --------                             ---------
+! Al - Ar: T.H. Dunning, Jr., K. A. Peterson and A. K. Wilson, J. Chem. Phys.
+! 114, 9244 (2001).
+!   
+! "aug-cc-pV(Q+d)Z" Basis Set Information
+! Summary: VQZ3PD Valence Quadruple Zeta + Polarization + Diffuse
+! Primary Developer: N/A
+! Contributor: Dr. David Feller
+! Last Modified: Mon, 15 Jan 2007 23:46:03 GMT

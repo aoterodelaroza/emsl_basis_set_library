@@ -1,14 +1,3 @@
-!  cc-pV(5+d)Z  EMSL  Basis Set Exchange Library   11/22/17 10:23 AM
-! Elements                             References
-! --------                             ----------
-! Al - Ar: T.H. Dunning, Jr., K.A. Peterson and A.K. Wilson, to be published
-!   
-! Summary: V5Z4P Valence Quintuple Zeta + Polarization on All Atoms
-! Primary Developer: N/A
-! Contributor: Dr. David Feller
-! Last Modified: Mon, 15 Jan 2007 23:46:06 GMT
-
-****
 -Al     0 
 S   16   1.00
  3269000.0000000             0.213962D-05     

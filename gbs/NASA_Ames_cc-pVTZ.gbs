@@ -1,14 +1,3 @@
-!  NASA Ames cc-pVTZ  EMSL  Basis Set Exchange Library   1/28/18 2:18 PM
-! C.W. Bauschlicher, Jr., Theor. Chem. Acc. 103, 141 (1999)
-! C.W. Bauschlicher, Jr., Theor. Chim Acta 92, 183 (1995)
-! A. Ricca and C. W. Bauschlicher, Jr. Theor. Chem. Acc. 106, 314 (2001)
-!   
-! Summary: VTZ2P Valence Triple Zeta + Polarization on All Atoms
-! Primary Developer: N/A
-! Contributor: Dr. David Feller
-! Last Modified: Mon, 15 Jan 2007 23:45:38 GMT
-
-****
 -Ti     0 
 S   17   1.00
  5309148.1000000             0.0000040        

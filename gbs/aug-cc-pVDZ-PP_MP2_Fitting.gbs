@@ -1,17 +1,3 @@
-!  aug-cc-pVDZ-PP MP2 Fitting  EMSL  Basis Set Exchange Library   11/2/17 9:38 AM
-! Elements                             References
-! --------                             ----------
-! Ru: J. G. Hill and J. A. Platts, Calculating interaction energies in transition metal complexes with local electron correlation methods, J. Chem. Phys. 129, 134101 (2008).
-! Y Zr Nb Mo Tc Rh Pd: J. Grant Hill and James A. Platts, Auxiliary Basis Sets for Density-Fitted MP2 Calculations: Correlation-Consistent Basis Sets for the 4d Elements, J. Chem. Theory Comput. 5, 500 (2009).
-! Hf Ta W Re Os Ir Pt: J. Grant Hill, Auxiliary basis sets for density fitting second-order Møller-Plesset perturbation theory: Correlation consistent basis sets for the 5d elements Hf-Pt, J. Chem. Phys. 135, 044105 (2011).
-! 
-! "aug-cc-pVDZ-PP MP2 Fitting" Basis Set Information
-! Summary: MP2 auxiliary basis for use with aug-cc-pVDZ-PP AO basis set
-! Primary Developer: Grant Hill
-! Contributor: Grant Hill
-! Last Modified: Tue, 26 Jun 2012 17:34:28 GMT
-
-****
 -Y     0 
 S   1   1.00
       9.9998959              1.0000000        

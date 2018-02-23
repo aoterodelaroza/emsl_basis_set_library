@@ -1,0 +1,12 @@
+!  6-31+G*-J  EMSL  Basis Set Exchange Library   9/22/17 12:26 PM
+! Elements                             References
+! --------                             ----------
+! H C N O: W. J. Hehre, R. Ditchfield and J. A. Pople, Self?Consistent Molecular Orbital Methods. XII. Further Extensions of Gaussian?Type Basis Sets for Use in Molecular Orbital Studies of Organic Molecules, J. Chem. Phys. 56, 2257-2261 (1972).
+! H C N O: P.C. Hariharan and J.A. Pople, The Influence of Polarization Functions on Molecular Orbital Hydrogenation Energies, Theoret. Chimica Acta 28, 213-222 (1973).
+! H C N O: T. Clark, J. Chandrasekhar, G.W. Spitznagel and P. von R. Schleyer, Efficient Diffuse Function- Augmented Basis Sets for Anion Calculations. III.* The 3-21+G Basis Set for First-Row Elements, Li-F, J. Comp. Chem. 4, 294-301 (1983).
+! H C N O: H. Kjær and S. P. A. Sauer, Pople style basis sets for the calculation of NMR spin-spin coupling constants: the 6-31G-J and 6-311G-J basis sets, J. Chem. Theory Comput. 7, 4070-4076 (2011).
+! 
+! Summary: Modification of the 6-31+G* basis sets for the calculation of Fermi contact dominated NMR indirect nuclear spin-spin coupling constants
+! Primary Developer: S. P. A. Sauer
+! Contributor: Stephan P. A. Sauer
+! Last Modified: Mon, 11 Jul 2016 18:08:58 GMT

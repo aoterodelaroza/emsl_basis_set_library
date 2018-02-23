@@ -1,0 +1,10 @@
+!  cc-pwCVQZ-PP MP2 Fitting  EMSL  Basis Set Exchange Library   12/2/17 1:22 PM
+! Elements                             References
+! --------                             ----------
+! Y Zr Nb Mo Tc Ru Rh Pd: J. Grant Hill, Auxiliary basis sets for density-fitting second-order Møller-Plesset perturbation theory: weighted core-valence correlation consistent basis sets for the 4 elements Y-Pd, Journal of Computational Chemistry 34, 2168 (2013).
+! Hf Ta W Re Os Ir Pt: J. Grant Hill, Auxiliary basis sets for density fitting second-order Møller-Plesset perturbation theory: Correlation consistent basis sets for the 5d elements Hf-Pt, J. Chem. Phys. 135, 044105 (2011).
+! 
+! Summary: cc-pwCVQZ-PP MP2 fitting auxiliary basis set
+! Primary Developer: Grant Hill
+! Contributor: Grant Hill
+! Last Modified: Fri, 09 May 2014 23:20:18 GMT

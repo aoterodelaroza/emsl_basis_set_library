@@ -1,0 +1,9 @@
+!  NMR-DKH (TZ2P)  EMSL  Basis Set Exchange Library   1/28/18 2:19 PM
+! Elements                             References
+! --------                             ----------
+! H He Li Be B C N O F Ne Na Mg Al Si P S Cl Ar K Ca Ga Ge As Se Br Kr Rb Sr In Sn Sb Te I Xe Pt: D. Paschoal, C. Fonseca Guerra, M. A. L. de Oliveira, T. C. Ramalho and H. F. Dos Santos, Predicting Pt-195 NMR chemical shift using new relativistic all-electron basis set, Journal of Computational Chemistry 37, 2360 (2016).
+! 
+! Summary: NMR-DKH (TZ2P character) basis set for H-He, Li-Ne, Na-Ar, K-Ca, Ga-Kr, Rb-Sr, In-Xe and Pt atoms
+! Primary Developer: Diego Paschoal
+! Contributor: Diego Paschoal
+! Last Modified: Thu, 12 Oct 2017 21:02:14 GMT

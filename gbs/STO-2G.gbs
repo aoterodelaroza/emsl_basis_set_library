@@ -1,13 +1,3 @@
-!  STO-2G  EMSL  Basis Set Exchange Library   2/22/18 6:08 PM
-! Elements                             References
-! --------                             ----------
-!  H - He: W.J. Hehre, R.F. Stewart and J.A. Pople, J. Chem. Phys. 2657 (1969).
-! Li - Ne: 
-! Na - Ar: W.J. Hehre, R. Ditchfield, R.F. Stewart, J.A. Pople, J. Chem. Phys.
-!  K - Kr: 52, 2769 (1970).
-!   
-
-****
 -H     0 
 S   2   1.00
       1.309756377            0.430128498      

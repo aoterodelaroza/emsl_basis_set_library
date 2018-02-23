@@ -1,0 +1,15 @@
+!  SDB-aug-cc-pVQZ  EMSL  Basis Set Exchange Library   2/22/18 5:22 PM
+! Elements                             References
+! --------                             ----------
+! Ga - Kr: J.M.L. Martin and A. Sundermann, J. Chem. Phys. 114, 3408 (2001). 
+! In - Xe: 
+!   
+! Elements                             References
+! --------                             ---------
+! Ga - Br: J.M.L. Martin and A. Sundermann, J. Chem. Phys. 114, 3408 (2001).
+! In - I : 
+!   
+! Summary: VQZ3P Valence Quadruple Zeta + Polarization on All Atoms
+! Primary Developer: N/A
+! Contributor: Dr. David Feller
+! Last Modified: Mon, 15 Jan 2007 23:45:06 GMT

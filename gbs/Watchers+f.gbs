@@ -1,17 +1,3 @@
-!  Wachters+f  EMSL  Basis Set Exchange Library   2/22/18 6:44 PM
-! Elements                             References
-! --------                             ----------
-! Sc - Cu: A. J. H. Wachters, J. Chem. Phys. 52, 1033 (1970).
-!          A. J. H. Wachters, IBM Tech. Rept. RJ584 (1969)
-!          F exponents: C. W. Bauschlicher, Jr. S. R. Langhoff and L. A. Barnes,
-!                       J. Chem. Phys. 91, 2399 (1989).
-!   
-! Summary: VDZP Valence Double Zeta + Polarization on All Atoms
-! Primary Developer: N/A
-! Contributor: Dr. David Feller
-! Last Modified: Mon, 15 Jan 2007 23:45:18 GMT
-
-****
 -Sc     0 
 S   6   1.00
  188961.0000000              0.0002500        

@@ -1,0 +1,10 @@
+!  aug-cc-pVTZ_OPTRI  EMSL  Basis Set Exchange Library   11/4/17 9:47 AM
+! Elements                             References
+! --------                             ----------
+! H He B C N O F Ne Al Si P S Cl Ar: K.E. Yousaf and K.A. Peterson, Optimized complementary auxiliary basis sets for explicitly correlated methods: aug-cc-pVnZ orbital basis sets, Chemical Physics Letters 476, 303 (2009).
+! 
+! "aug-cc-pVTZ_OPTRI" Basis Set Information
+! Summary: CABS RI basis sets for F12 matched to aug-cc-pVnZ orbital basis sets
+! Primary Developer: Kirk Peterson
+! Contributor: Kirk Peterson
+! Last Modified: Wed, 19 May 2010 16:24:28 GMT

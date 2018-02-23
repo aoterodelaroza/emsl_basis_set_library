@@ -1,15 +1,3 @@
-!  Ahlrichs Polarization  EMSL  Basis Set Exchange Library   10/29/17 2:47 PM
-! Elements                             References
-! --------                             ----------
-! H - Kr: R. Ahlrichs and coworkers, (mostly unpublished)
-!   
-! "Ahlrichs Polarization" Basis Set Information
-! Summary: 1P Polarization functions
-! Primary Developer: N/A
-! Contributor: Dr. David Feller
-! Last Modified: Mon, 15 Jan 2007 23:44:17 GMT
-
-****
 -H     0 
 P   1   1.00
       0.8000000              1.0000000        

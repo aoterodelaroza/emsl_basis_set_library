@@ -1,0 +1,9 @@
+!  cc-pVTZ-F12 MP2 Fitting  EMSL  Basis Set Exchange Library   11/30/17 11:50 AM
+! Elements                             References
+! --------                             ----------
+! H He Li Be B C N O F Ne Na Mg Al Si P S Cl Ar: S. Kritikou and J.G. Hill, Auxiliary Basis Sets for Density Fitting in Explicitly Correlated Calculations: The Atoms H?Ar, J. Chem. Theory Comput. 11, 5269 (2015).
+! 
+! Summary: Auxiliary basis set matched to cc-pVTZ-F12
+! Primary Developer: Grant Hill
+! Contributor: Grant Hill
+! Last Modified: Mon, 11 Jul 2016 18:02:31 GMT

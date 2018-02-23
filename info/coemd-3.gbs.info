@@ -1,0 +1,9 @@
+!  coemd-3  EMSL  Basis Set Exchange Library   12/30/17 3:17 AM
+! Elements                             References
+! --------                             ----------
+! H He Li Be B C N O F Ne Na Mg Al Si P S Cl Ar: J. Lehtola, P. Manninen, M. Hakala and K. Hämäläinen, Completeness-optimized basis sets. Application to ground-state electron momentum densities, J. Chem. Phys. 137, 104105 (2012).
+! 
+! Summary: Basis set for computing moments of the electron momentum density at a 10^-3 relative accuracy
+! Primary Developer: Jussi Lehtola
+! Contributor: Susi Lehtola
+! Last Modified: Sat, 13 Oct 2012 01:33:07 GMT

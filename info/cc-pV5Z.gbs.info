@@ -1,0 +1,17 @@
+!  cc-pV5Z  EMSL  Basis Set Exchange Library   11/23/17 3:25 PM
+! Elements                             References
+! --------                             ----------
+! H      : T.H. Dunning, Jr. J. Chem. Phys. 90, 1007 (1989).
+! He     : D.E. Woon and T.H. Dunning, Jr. J. Chem. Phys. 100, 2975 (1994).
+! Li     : Unofficial set from D. Feller.
+! B  - Ne: T.H. Dunning, Jr. J. Chem. Phys. 90, 1007 (1989).
+! Na - Mg: Unofficial set from D. Feller.
+! Al - Ar: D.E. Woon and T.H. Dunning, Jr.  J. Chem. Phys. 98, 1358 (1993).
+! Ca     : J. Koput and K.A. Peterson, J. Phys. Chem. A, 106, 9595 (2002).
+! Sc - Zn: N.B. Balabanov and K.A. Peterson, J. Chem. Phys., 123, 064107 (2005)
+! Ga - Kr: A.K. Wilson, D.E. Woon,K.A. Peterson, T.H.Dunning, Jr., J. Chem. Phys. 110, 7667 (1999)
+! 
+! Summary: V5Z4P Valence Quintuple Zeta + Polarization on All Atoms
+! Primary Developer: N/A
+! Contributor: Dr. David Feller
+! Last Modified: Mon, 26 Jan 2009 19:35:34 GMT

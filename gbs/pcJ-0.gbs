@@ -1,15 +1,3 @@
-!  pcJ-0  EMSL  Basis Set Exchange Library   1/29/18 5:50 PM
-! Elements                             References
-! --------                             ----------
-! H He B C N O F Ne Al Si P S Cl Ar: Frank Jensen, The Optimum Contraction of Basis Sets for Calculating Spin-Spin Coupling Constants, Theor. Chem. Acc. 126, 371 (2010).
-! 
-! "pcJ-0" Basis Set Information
-! Summary: N/A
-! Primary Developer: Frank Jensen
-! Contributor: Frank Jensen
-! Last Modified: Mon, 27 Dec 2010 21:26:19 GMT
-
-****
 -H     0 
 S   3   1.00
       0.135775E+04           0.662212E-03     

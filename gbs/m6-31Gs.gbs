@@ -1,14 +1,3 @@
-!  m6-31G*  EMSL  Basis Set Exchange Library   1/26/18 1:59 PM
-! Elements                             References
-! --------                             ----------
-! Sc, Ti, V, Cr, Mn, Fe, Co, Ni, Cu : A.V. Mitin, J. Baker, P. Pulay, An improved 6-31G* basis set for first-row transition metals, J. Chem. Phys. 118, 7775 (2003).
-! 
-! Summary: Improved 6-31G* basis set for first-row transition metals
-! Primary Developer: Jon Baker, Peter Pulay
-! Contributor: Marcel Swart
-! Last Modified: Wed, 19 May 2010 16:14:25 GMT
-
-****
 -Sc     0 
 S   6   1.00
   39088.980000000            0.00180326       

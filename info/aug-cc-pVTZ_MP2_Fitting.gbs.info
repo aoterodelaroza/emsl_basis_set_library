@@ -1,0 +1,11 @@
+!  aug-cc-pVTZ MP2 Fitting  EMSL  Basis Set Exchange Library   11/3/17 11:00 AM
+! Elements                             References
+! --------                             ----------
+! Zn: J. Grant Hill and James A. Platts, Auxiliary basis sets for density fitting-MP2 calculations: Nonrelativistic triple-zeta all-electron correlation consistent basis sets for the 3d elements
+! Sc Ti V Cr Mn Fe Co Ni Cu: J. Grant Hill and James A. Platts, Auxiliary basis sets for density fitting-MP2 calculations: Nonrelativistic triple-zeta all-electron correlation consistent basis sets for the 3d elements Sc-Zn, J. Chem. Phys. 128, 044104 (2008).
+! 
+! "aug-cc-pVTZ MP2 Fitting" Basis Set Information
+! Summary: N/A
+! Primary Developer: Grant Hill
+! Contributor: Grant Hill
+! Last Modified: Thu, 06 Nov 2008 18:52:38 GMT

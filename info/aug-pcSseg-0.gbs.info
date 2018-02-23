@@ -1,0 +1,9 @@
+!  aug-pcSseg-0  EMSL  Basis Set Exchange Library   11/15/17 10:47 AM
+! Elements                             References
+! --------                             ----------
+! H He Li Be B C N O F Ne Na Mg Al Si P S Cl Ar K Ca Sc Ti V Cr Mn Fe Co Ni Cu Zn Ga Ge As Se Br Kr: Frank Jensen, Segmented Contracted Basis Sets Optimized for Nuclear Magnetic Shielding, J. Chem. Theory Comp. 11, 132 (2015).
+! 
+! Summary: N/A
+! Primary Developer: Frank Jensen
+! Contributor: Frank Jensen
+! Last Modified: Wed, 14 Jan 2015 17:18:25 GMT

@@ -1,0 +1,9 @@
+!  cc-pVTZ-fit2-1  EMSL  Basis Set Exchange Library   11/30/17 11:52 AM
+! Elements                             References
+! --------                             ----------
+! H - Ne: D.E. Bernholdt and R.J. Harrison, J. Chem. Phys. 109, 1593 (1998)
+!   
+! Summary: VTZP RI-MP2 triple zeta fitting basis set
+! Primary Developer: N/A
+! Contributor: Dr. David Feller
+! Last Modified: Mon, 15 Jan 2007 23:44:58 GMT

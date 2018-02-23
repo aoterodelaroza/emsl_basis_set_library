@@ -1,22 +1,3 @@
-!  6-311++G  EMSL  Basis Set Exchange Library   9/22/17 12:28 PM
-! Elements                             References
-! --------                             ----------
-! H, Li - Ne: R. Krishnan, J.S. Binkley, R. Seeger and J.A. Pople,
-! J. Chem. Phys. 72, 650 (1980)
-! Na - Ar:    A.D. McLean and G.S. Chandler J. Chem. Phys. 72, 5639, (1980).
-! K  - Ca:    J-P. Blaudeau, M. P. McGrath, L.A. Curtiss and L. Radom,
-! J. Chem. Phys. 107, 5016 (1997).
-! Diffuse functions:
-! H, Li-Cl: T. Clark, J. Chandrasekhar,  G.W. Spitznagel, P.V.R. Schleyer,
-! J. Comp. Chem. 4, 294 (1983).
-! 
-! Summary: VTZD Valence Triple Zeta + Diffuse on All Atoms
-! Primary Developer: N/A
-! Contributor: Ryan Renslow
-! Last Modified: Fri, 27 Feb 2015 03:35:17 GMT
-!
-
-****
 -H     0 
 S   3   1.00
      33.8650000              0.0254938        

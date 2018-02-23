@@ -1,0 +1,9 @@
+!  cc-pwCVTZ-NR  EMSL  Basis Set Exchange Library   12/2/17 1:29 PM
+! Elements                             References
+! --------                             ----------
+! Sc - Zn: N.B. Balabanov and K.A. Peterson, J. Chem. Phys., accepted (2005).
+!   
+! Summary: TZ2P All-electron non-relativistic Core-Valence Triple Zeta + Polarization
+! Primary Developer: N/A
+! Contributor: Dr. David Feller
+! Last Modified: Mon, 15 Jan 2007 23:45:48 GMT

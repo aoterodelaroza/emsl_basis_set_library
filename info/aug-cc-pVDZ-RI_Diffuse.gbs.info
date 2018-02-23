@@ -1,0 +1,10 @@
+!  aug-cc-pVDZ-RI diffuse  EMSL  Basis Set Exchange Library   11/2/17 9:41 AM
+! Elements                             References
+! --------                             ----------
+! H He B C N O F Ne Al Si P S Cl Ar Ga Ge As Se Br Kr : F. Weigend, A. Kohn, C. Hattig, Efficient use of the correlation consistent basis sets in resolution of the identity MP2 calculations, The Journal of Chemical Physics 116, 3175 (2002).
+! 
+! "aug-cc-pVDZ-RI diffuse" Basis Set Information
+! Summary: N/A
+! Primary Developer: Christof Hattig
+! Contributor: Christof Hattig
+! Last Modified: Wed, 30 Apr 2008 23:48:10 GMT

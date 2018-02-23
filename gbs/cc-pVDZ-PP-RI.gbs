@@ -1,15 +1,3 @@
-!  cc-pVDZ-PP-RI  EMSL  Basis Set Exchange Library   11/24/17 1:37 PM
-! Elements                             References
-! --------                             ----------
-! Ga Ge As Se Br Kr In Sn Sb Te I Xe Tl Pb Bi Po At Rn: Christof Hattig, auxiliary basis sets for RI-MP2 calculations, TURBOMOLE basis set library 6.0, 1 (2009).
-! Cu Zn Ag Cd Au Hg: Christof Hattig, auxiliary basis sets for RI-MP2 calculations, TURBOMOLE basis set library 6.0, 1 (2009).
-! 
-! Summary: auxiliary basis sets for for second-order correlation methods using the resolution-of-the-identity approximation for electron repulsion integrals (RI-MP2, RI-CC2, RI-CIS(D), RI-ADC(2),...)
-! Primary Developer: Christof Hattig
-! Contributor: Christof H�ttig
-! Last Modified: Tue, 01 Sep 2009 23:40:06 GMT
-
-****
 -Cu     0 
 S   1   1.00
      19.307700000            1.0000000        

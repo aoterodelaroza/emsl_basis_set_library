@@ -1,0 +1,14 @@
+!  Roos Augmented Triple Zeta ANO  EMSL  Basis Set Exchange Library   2/22/18 5:01 PM
+! Elements                             References
+! --------                             ----------
+! H - Ne:  P.O. Widmark, P.A. Malmqvist, B. Roos, Theor. Chim. Acta, 77,
+! 291 (1990).
+! Na - Ar: P.O. Widmark, B. J. Persson and B. Roos Theor. Chim. Acta, 79,
+! 419 (1991).
+! Sc - Zn: R. Pou-Amerigo, M. Merchan, I. Nebot-Gil, P.O. Widmark and B. Roos,
+! Theor. Chim. Acta, 92, 149 (1995).
+! 
+! Summary: VTZ2PD Valence Triple Zeta + Polarization + Diffuse
+! Primary Developer: N/A
+! Contributor: Dr. David Feller
+! Last Modified: Thu, 29 Jan 2009 17:57:32 GMT

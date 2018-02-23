@@ -1,15 +1,3 @@
-!  aug-cc-pwCV5Z-PP MP2 Fitting  EMSL  Basis Set Exchange Library   11/4/17 9:50 AM
-! Elements                             References
-! --------                             ----------
-! Y Zr Nb Mo Tc Ru Rh Pd: J. Grant Hill, Auxiliary basis sets for density-fitting second-order Møller-Plesset perturbation theory: weighted core-valence correlation consistent basis sets for the 4 elements Y-Pd, Journal of Computational Chemistry 34, 2168 (2013).
-! 
-! "aug-cc-pwCV5Z-PP MP2 Fitting" Basis Set Information
-! Summary: MP2 auxiliary basis for use with aug-cc-pwCV5Z-PP AO basis set
-! Primary Developer: Grant Hill
-! Contributor: Grant Hill
-! Last Modified: Tue, 13 May 2014 18:34:50 GMT
-
-****
 -Y     0 
 S   1   1.00
      12.8787000              1.0000000        

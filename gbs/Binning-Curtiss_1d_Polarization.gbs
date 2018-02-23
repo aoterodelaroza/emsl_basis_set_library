@@ -1,12 +1,3 @@
-!  Binning-Curtiss (1d) Polarization  EMSL  Basis Set Exchange Library   11/20/17 2:51 PM
-! !
-!   
-! Summary: 1P Polarization functions
-! Primary Developer: N/A
-! Contributor: Dr. David Feller
-! Last Modified: Mon, 15 Jan 2007 23:44:18 GMT
-
-****
 -Ga     0 
 D   1   1.00
       0.1410000              1.0000000        

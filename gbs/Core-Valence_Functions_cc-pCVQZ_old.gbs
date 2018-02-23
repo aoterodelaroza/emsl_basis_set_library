@@ -1,14 +1,3 @@
-!  Core/valence Functions (cc-pCVQZ(old))  EMSL  Basis Set Exchange Library   12/30/17 3:26 AM
-! Elements                             References
-! --------                             ----------
-! Al - Ar: unpublished
-! 
-! Summary: 3T Tight functions
-! Primary Developer: N/A
-! Contributor: Dr. David Feller
-! Last Modified: Wed, 20 Jan 2010 23:23:49 GMT
-
-****
 -Al     0 
 S   1   1.00
       9.7290000              1.0000000        

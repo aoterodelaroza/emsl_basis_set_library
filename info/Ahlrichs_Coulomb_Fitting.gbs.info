@@ -1,0 +1,14 @@
+!  Ahlrichs Coulomb Fitting  EMSL  Basis Set Exchange Library   10/29/17 2:45 PM
+! Elements                             References
+!   --------                             ----------
+! H - Ba; Hf - At: 
+!       1) K. Eichkorn, O. Treutler, H. Ohm, M. Haser and R. Ahlrichs,
+!          Chem. Phys. Letters 240, 283 (1995).
+!       2) K. Eichkorn, F. Weigend, O. Treutler, R. Ahlrichs,
+!          Theor. Chem. Acc. 97, 119 (1997)
+!   
+! "Ahlrichs Coulomb Fitting" Basis Set Information
+! Summary: DFT Coulomb Fitting
+! Primary Developer: N/A
+! Contributor: Dr. David Feller
+! Last Modified: Mon, 15 Jan 2007 23:44:59 GMT

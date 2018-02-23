@@ -1,0 +1,20 @@
+!  aug-pV7Z  EMSL  Basis Set Exchange Library   11/15/17 10:54 AM
+! Elements                             References
+! --------                             ----------
+! H:         D. Feller
+! C - F, S:  D. Feller and K.A. Peterson, J. Chem. Phys. 110, 8384 (1999)
+! D. Feller and J.A. Sordo, J. Chem. Phys. 113, 485 (2000)
+! and Ed Valeev (k function exponents)
+! Ne         K. A. Peterson (to be published)
+! 
+! Elements                             References
+! --------                             ---------
+! H    : (not yet defined)
+! C - F: D. Feller and J. A. Sordo (to be published)
+! Ne   : D. Feller (to be published)
+! S    : k function exponents from Dr. Ed. Valeev
+!   
+! Summary: V7Z6P Valence Septuple Zeta + Polarization on All Atoms
+! Primary Developer: N/A
+! Contributor: Dr. David Feller
+! Last Modified: Tue, 16 Dec 2008 22:07:23 GMT

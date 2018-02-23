@@ -1,27 +1,3 @@
-!  aug-cc-pCV5Z  EMSL  Basis Set Exchange Library   10/30/17 12:41 PM
-! Elements                             References
-! --------                             ----------
-! B - Na: T.H. Dunning, Jr. J. Chem. Phys. 90, 1007 (1989) and D. E. Woon and
-! T.H. Dunning, Jr. J. Chem. Phys. 103, 4572 (1995).
-! Ca     : J. Koput and K.A. Peterson, J. Phys. Chem. A, 106, 9595 (2002).
-! 
-! Elements                             References
-! --------                             ---------
-! H    :  T.H. Dunning, Jr. J. Chem. Phys. 90, 1007 (1989).
-! Diffuse s exponent - S. Mielke
-! He   :  D.E. Woon and T.H. Dunning, Jr., J. Chem. Phys. 100, 2975 (1994).
-! B - F:  R.A. Kendall, T.H. Dunning, Jr. and R.J. Harrison, J. Chem. Phys. 96,
-! 6796 (1992).
-! Al - Cl: D.E. Woon and T.H. Dunning, Jr. J. Chem. Phys. 98, 1358 (1993).
-! Sc - Zn: N.B. Balabanov and K.A. Peterson, J. Chem. Phys, 123, 064107 (2005)
-! 
-! "aug-cc-pCV5Z" Basis Set Information
-! Summary: 5Z4P Quintuple Zeta + Polarization on All Atoms
-! Primary Developer: N/A
-! Contributor: Dr. David Feller
-! Last Modified: Thu, 09 Oct 2008 19:48:49 GMT
-
-****
 -B     0 
 S   10   1.00
   68260.0000000              0.0000240        

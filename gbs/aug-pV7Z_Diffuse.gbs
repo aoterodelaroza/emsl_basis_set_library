@@ -1,17 +1,3 @@
-!  aug-pV7Z Diffuse  EMSL  Basis Set Exchange Library   11/15/17 10:56 AM
-! Elements                             References
-! --------                             ---------
-! H    : (not yet defined)
-! C - F: D. Feller and J. A. Sordo (to be published)
-! Ne   : D. Feller (to be published)
-! S    : k function exponents from Dr. Ed. Valeev
-!   
-! Summary: 1D Diffuse Functions
-! Primary Developer: N/A
-! Contributor: Dr. David Feller
-! Last Modified: Mon, 15 Jan 2007 23:44:29 GMT
-
-****
 -C     0 
 S   1   1.00
       0.0321008              1.0000000        

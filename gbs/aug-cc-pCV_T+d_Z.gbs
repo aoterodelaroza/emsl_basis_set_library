@@ -1,17 +1,3 @@
-!  aug-cc-pCV(T+d)Z  EMSL  Basis Set Exchange Library   10/30/17 12:39 PM
-! Elements                             References
-! --------                             ----------
-! Al - Ar: D.E. Woon and T.H. Dunning, Jr., Gaussian basis sets for use in correlated molecular calculations. III. The atoms aluminum through argon, J. Chem. Phys. 98, 1358 (1993).
-! Al - Cl: S. Yockel and A. K. Wilson, Core-valence correlation consistent basis sets for second-row atoms (Al-Ar) revisited, Theor. Chem. Acc. 120, 119 (2008).
-! Al - Ar: K.A. Peterson and T.H. Dunning, Jr., Accurate correlation consistent basis sets for molecular core?valence correlation effects: The second row atoms Al?Ar, and the first row atoms B?Ne revisited, J. Chem. Phys. 117, 10548 (2002).
-! 
-! "aug-cc-pCV(T+d)Z" Basis Set Information
-! Summary: Core-valence basis sets for second-row atoms (Al-Ar)
-! Primary Developer: Angela K. Wilson 
-! Contributor: Wanyi Jiang
-! Last Modified: Tue, 13 May 2014 20:32:45 GMT
-
-****
 -Si     0 
 S   13   1.00
  254900.0000000              6.2510100E-05    

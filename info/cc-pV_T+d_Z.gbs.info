@@ -1,0 +1,10 @@
+!  cc-pV(T+d)Z  EMSL  Basis Set Exchange Library   11/22/17 10:29 AM
+! Elements                             References
+! --------                             ----------
+! Al - Ar: T.H. Dunning, Jr., K.A. Peterson and A.K. Wilson, J. Chem. Phys. 114,
+! 9244 (2001)
+! 
+! Summary: VTZ2P Valence Triple Zeta + Polarization on All Atoms
+! Primary Developer: N/A
+! Contributor: Dr. David Feller
+! Last Modified: Mon, 10 Nov 2008 18:30:28 GMT

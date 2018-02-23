@@ -1,0 +1,9 @@
+!  cc-pV5Z-NR MP2 Fitting  EMSL  Basis Set Exchange Library   11/23/17 3:31 PM
+! Elements                             References
+! --------                             ----------
+! Sc Ti V Cr Mn Fe Co Ni Cu Zn: D. H. Bross, J. G. Hill, H.-J. Werner and K. A. Peterson, Explicitly correlated composite thermochemistry of transition metal species, J. Chem. Phys. 139, 094302 (2013).
+! 
+! Summary: MP2 auxiliary basis for use with cc-pV5Z-NR AO basis set
+! Primary Developer: Grant Hill
+! Contributor: Grant Hill
+! Last Modified: Fri, 09 May 2014 22:10:46 GMT

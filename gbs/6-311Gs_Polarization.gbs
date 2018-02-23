@@ -1,21 +1,3 @@
-!  6-311G* Polarization  EMSL  Basis Set Exchange Library   9/25/17 1:28 PM
-! Elements                             References
-! --------                             ----------
-! Li - Ar: R. Krishnan, J.S. Binkley, R. Seeger, J.A. Pople, J. Chem. Phys. 72,
-!          650 (1980).
-! K  - Ca: J-P. Blaudeau, M. P. McGrath, L.A. Curtiss
-!                                    and L. Radom, J. Chem. Phys. 107, 5016
-!                                    (1997).
-! Ga - Kr: L. A. Curtiss, M. P. McGrath, J-P. Blandeau, N. E. Davis, R. C. 
-!          Binning, Jr., L. Radom, J. Chem. Phys. 103, 6104 (1995)
-!   
-! Summary: 1P Polarization functions associated with 6-311G
-! Primary Developer: N/A
-! Contributor: Dr. David Feller
-! Last Modified: Mon, 15 Jan 2007 23:44:36 GMT
-
-
-****
 -Li     0 
 D   1   1.00
       0.2000000              1.0000000        

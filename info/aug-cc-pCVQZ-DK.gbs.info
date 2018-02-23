@@ -1,0 +1,38 @@
+!  aug-cc-pCVQZ-DK  EMSL  Basis Set Exchange Library   10/30/17 12:45 PM
+! Original basis sets:
+! Elements                             References
+! --------                             ----------
+!  H     : T.H. Dunning, Jr. J. Chem. Phys. 90, 1007 (1989).
+!  He    : D.E. Woon and T.H. Dunning, Jr. J. Chem. Phys. 100, 2975 (1994).
+!  B - Ne: T.H. Dunning, Jr. J. Chem. Phys. 90, 1007 (1989).
+! Al - Ar: D.E. Woon and T.H. Dunning, Jr.  J. Chem. Phys. 98, 1358 (1993).
+! Ga - Kr: A.K. Wilson, D.E. Woon, K.A. Peterson, T.H. Dunning, Jr.,
+!          J. Chem. Phys., 110, 7667 (1999).
+! Original exponents recontracted: W.A. de Jong, R.J. Harrison and D.A. Dixon,
+!                                  J. Chem. Phys. 114, 48 (2001).
+! Sc - Zn: (20s,16p,8d,2f,1g) -> [7s,6p,4d,2f,1g]     N.B. Balabanov and K.A.
+!                                                     Peterson, J. Chem. Phys.,
+!                                                     123, 064107 (2005)
+!   
+! Elements                             References
+! --------                             ----------
+! H     : T.H. Dunning, Jr. J. Chem. Phys. 90, 1007 (1989).
+! Li - Ne: T.H. Dunning, Jr. J. Chem. Phys. 90, 1007 (1989) and D. E. Woon and
+! T.H. Dunning, Jr. J. Chem. Phys. 103, 4572 (1995).
+! Al - Ar: K.A. Peterson and T.H. Dunning, Jr. J. Chem. Phys. 117, 10548 (2002)
+! Ca     : J. Koput and K.A. Peterson, J. Phys. Chem. A, 106, 9595 (2002).
+! 
+! Elements                             References
+! --------                             ----------
+! H    :  T.H. Dunning, Jr. J. Chem. Phys. 90, 1007 (1989).
+! He   :  D.E. Woon and T.H. Dunning, Jr., J. Chem. Phys. 100, 2975 (1994).
+! B - F:  R.A. Kendall, T.H. Dunning, Jr. and R.J. Harrison, J. Chem. Phys. 96,
+! 6796 (1992).
+! Al - Cl: D.E. Woon and T.H. Dunning, Jr. J. Chem. Phys. 98, 1358 (1993).
+! Sc - Zn: N.B. Balabanov and K.A. Peterson, J. Chem. Phys, 123, 064107 (2005)
+! 
+! "aug-cc-pCVQZ-DK" Basis Set Information
+! Summary: QZ3PD Quadruple Zeta + Polarization +Diffuse on All Atoms
+! Primary Developer: N/A
+! Contributor: N/A
+! Last Modified: Tue, 22 Feb 2011 00:27:53 GMT

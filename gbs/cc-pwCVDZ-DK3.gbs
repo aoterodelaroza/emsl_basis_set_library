@@ -1,14 +1,3 @@
-!  cc-pwCVDZ-DK3  EMSL  Basis Set Exchange Library   12/1/17 12:08 PM
-! Elements                             References
-! --------                             ----------
-! La Ce Pr Nd Pm Sm Eu Gd Tb Dy Ho Er Tm Yb Lu: Q. Lu and K.A. Peterson, Correlation consistent basis sets for lanthanides: The atoms La-Lu, J. Chem. Phys. 145, 054111 (2016).
-! 
-! Summary: DKH3-contracted correlation consistent valence polarized basis set
-! Primary Developer: Kirk Peterson
-! Contributor: Kirk Peterson
-! Last Modified: Fri, 14 Oct 2016 22:22:40 GMT
-
-****
 -La     0 
 S   22   1.00
  57716530.0000000            0.000227504      

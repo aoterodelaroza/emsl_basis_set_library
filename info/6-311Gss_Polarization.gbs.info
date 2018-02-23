@@ -1,0 +1,10 @@
+!  6-311G** Polarization  EMSL  Basis Set Exchange Library   9/25/17 1:26 PM
+! Elements                             References
+! --------                             ----------
+! H - Ar:  R. Krishnan, J.S. Binkley, R. Seeger, J.A. Pople, J. Chem. Phys. 72,
+!          650 (1980)
+!   
+! Summary: 1P Polarization functions associated with 6-311G
+! Primary Developer: N/A
+! Contributor: Dr. David Feller
+! Last Modified: Mon, 15 Jan 2007 23:44:35 GMT

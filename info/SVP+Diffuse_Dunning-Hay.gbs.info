@@ -1,0 +1,15 @@
+!  SVP + Diffuse (Dunning-Hay)  EMSL  Basis Set Exchange Library   2/22/18 6:33 PM
+! T.H. DUNNING JR. AND P.J. HAY, IN METHODS OF ELECTRONIC STRUCTURE THEORY, 
+!  VOL. 2, H.F. SCHAEFER III, ED., PLENUM PRESS (1977).
+!   
+!  H - F: T.H. DUNNING JR. AND P.J. HAY, IN METHODS OF ELECTRONIC STRUCTURE 
+!               THEORY VOL. 2, H.F. SCHAEFER III, ED., PLENUM PRESS (1977). 
+!   Si - Cl:    E. MAGNUSSON AND H.F. SCHAEFER III, JCP 83, 5721 (1985).
+!   
+! T.H. DUNNING JR. AND P.J. HAY, IN METHODS OF ELECTRONIC STRUCTURE THEORY, 
+!  VOL. 2, H.F. SCHAEFER III, ED., PLENUM PRESS (1977).
+!   
+! Summary: VDZPD Valence Double Zeta + Polarization + Diffuse
+! Primary Developer: N/A
+! Contributor: Dr. David Feller
+! Last Modified: Mon, 15 Jan 2007 23:46:47 GMT

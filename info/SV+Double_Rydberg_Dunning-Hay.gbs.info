@@ -1,0 +1,11 @@
+!  SV + Double Rydberg (Dunning-Hay)  EMSL  Basis Set Exchange Library   2/22/18 6:30 PM
+! T.H. DUNNING JR. AND P.J. HAY, IN METHODS OF ELECTRONIC STRUCTURE THEORY, 
+!  VOL. 2, H.F. SCHAEFER III, ED., PLENUM PRESS (1977).
+!   
+! T.H. DUNNING, JR. AND P.J. HARRISON, IN MODERN THEORETICAL CHEMISTRY, VOL.2 
+!  ED. H.F. SCHAEFER III (PLENUM PRESS, NEW YORK, 1977).
+!   
+! Summary: VDZ2R Valence Double Zeta + Double Rydberg Functions
+! Primary Developer: N/A
+! Contributor: Dr. David Feller
+! Last Modified: Mon, 15 Jan 2007 23:45:18 GMT

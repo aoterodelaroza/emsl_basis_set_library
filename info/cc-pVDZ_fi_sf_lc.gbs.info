@@ -1,0 +1,14 @@
+!  cc-pVDZ(fi/sf/lc)  EMSL  Basis Set Exchange Library   11/24/17 1:25 PM
+! Original cc- basis sets:
+! T.H. Dunning, Jr. J. Chem. Phys. 90, 1007 (1989).
+! D.E. Woon and T.H. Dunning, Jr. J. Chem. Phys. 100, 2975 (1994).
+! T.H. Dunning, Jr. J. Chem. Phys. 90, 1007 (1989).
+! D.E. Woon and T.H. Dunning, Jr.  (to be published)
+! D.E. Woon and T.H. Dunning, Jr.  J. Chem. Phys. 98, 1358 (1993).
+! Recontraction:
+! K. G. Dyall, in preparation.
+!   
+! Summary: VDZP Relativistic Valence Double Zeta + Polarization
+! Primary Developer: N/A
+! Contributor: Dr. David Feller
+! Last Modified: Mon, 15 Jan 2007 23:44:43 GMT

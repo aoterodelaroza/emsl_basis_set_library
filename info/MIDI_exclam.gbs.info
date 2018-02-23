@@ -1,0 +1,11 @@
+!  MIDI!  EMSL  Basis Set Exchange Library   1/26/18 2:18 PM
+! S. Huzinaga, Ed.,J. Andzelm, M. Klobukowski, E. Radzio-Andzelm, Y. Sakai, 
+!  H. Tatewaki in Gaussian Basis Sets for Molecular Calculations: 
+!  Elsevier, Amsterdam, 1984. 
+!  R. E. Easton, D. J. Giesen, A. Welch, C. J. Cramer, D. G. Truhlar, 
+!  Theor. Chim. Acta, In Press.
+!   
+! Summary: VDZP Valence Double Zeta + Polarization on some atoms
+! Primary Developer: N/A
+! Contributor: Dr. David Feller
+! Last Modified: Mon, 15 Jan 2007 23:46:49 GMT

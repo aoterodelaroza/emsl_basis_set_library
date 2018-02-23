@@ -1,15 +1,3 @@
-!  cc-pwCV5Z Core Set  EMSL  Basis Set Exchange Library   12/1/17 11:56 AM
-! Elements                             References
-! --------                             ----------
-! B  - Ne: K.A. Peterson and T.H. Dunning, Jr. J. Chem. Phys. 117, 10548 (2002).
-! Al - Ar:
-! 
-! Summary: V5Z4P Valence Quintuple Zeta + Polarization on All Atoms
-! Primary Developer: N/A
-! Contributor: Dr. David Feller
-! Last Modified: Mon, 04 Apr 2011 17:42:25 GMT
-
-****
 -B     0 
 S   10   1.00
   68260.0000000              0.0000240        
