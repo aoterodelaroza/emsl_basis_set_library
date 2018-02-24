@@ -1,0 +1,14 @@
+!  6ZP  EMSL  Basis Set Exchange Library   2/23/18 8:48 PM
+! Elements                             References
+! --------                             ----------
+! H He Li Be B C O F Ne Na Mg Al Si P S Cl Ar: C. T. Campos, G. A. Ceolin, A. Canal Neto, F. E. Jorge, and F. N. N. Pansini, Gaussian basis set of sextuple zeta quality for hydrogen through argon, Chem. Phys. Lett. 516, 125 (2011).
+! 
+! Summary:  All-electron 6 zeta plus polarization functions
+! Primary Developer: N/A
+! Contributor: Susi Lehtola
+! Last Modified: Fri, 09 May 2014 23:56:22 GMT
+!
+!! More information
+! Cite this work as: C. T. Campos, G. A. Ceolin, A. Canal Neto,
+! F. E. Jorge, and F. N. N. Pansini, Chem. Phys. Lett. 516 (2011)
+! 125. 

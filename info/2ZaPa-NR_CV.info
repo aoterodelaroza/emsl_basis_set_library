@@ -1,0 +1,15 @@
+!  2ZaPa-NR_CV  EMSL  Basis Set Exchange Library   2/23/18 8:18 PM
+! Elements                             References
+! --------                             ----------
+! Li Be B C N O F Ne Na Mg Al Si P S Cl Ar: D. Ranasinghe, M. J. Frisch, and G. A. Petersson, Core-core and core-valence correlation energy atomic and molecular benchmarks for Li through Ar, Journal of Chemical Physics 143, 214110 (2015).
+! 
+! Summary: core-valence functions for 2ZaPa-NR
+! Primary Developer: George A. Petersson
+! Contributor: Jan M.L. Martin
+! Last Modified: Wed, 11 Oct 2017 19:15:24 GMT
+!
+!! More information
+! D. S. Ranasinghe, M. J. Frisch, and G. A. Petersson, &quot;Core-core
+! and core-valence correlation energy atomic and molecular benchmarks
+! for Li through Ar&quot;, JCP 143, 214110 (2015) 
+! http://dx.doi.org/10.1063/1.4935972

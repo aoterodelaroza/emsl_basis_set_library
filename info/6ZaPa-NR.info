@@ -1,14 +1,12 @@
-!  4ZaPa-NR  EMSL  Basis Set Exchange Library   9/21/17 11:49 AM
+!  6ZaPa-NR  EMSL  Basis Set Exchange Library   2/23/18 8:46 PM
 ! Elements                             References
 ! --------                             ----------
 ! H He Li Be B C N O F Ne Na Mg Al Si P S Cl Ar: Duminda S. Ranasinghe and George A. Petersson, CCSD(T)?CBS atomic and molecular benchmarks for H through Ar, Journal of Chemical Physics 138, 144104 (2013).
 ! 
-! Summary: Ranasinghe-Petersson 4ZaPa-NR basis set
+! Summary: Ranasinghe-Petersson 6ZaPa-NR basis set
 ! Primary Developer: George A. Petersson
-! Contributor:Jan M.L. Martin
-! Last Modified:Mon, 11 Jul 2016 17:16:56 GMT
-!
+! Contributor: Jan M.L. Martin
+! Last Modified: Mon, 11 Jul 2016 17:52:07 GMT
 !
 !! More information
-! optimized n-tuple-Zeta; augmented polarization augmented (nZaPa)
-! basis sets (n = 4, 5, 6, and 7) for H-Ar
+! optimized n-tuple-Zeta augmented polarization augmented (nZaPa) basis sets (n = 4, 5, 6, and 7) for H-Ar

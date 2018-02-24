@@ -13,3 +13,16 @@
 ! Primary Developer: N/A
 ! Contributor: Dr. David Feller
 ! Last Modified: Mon, 15 Jan 2007 23:44:36 GMT
+!
+!! More information
+! 6-311G* Polarization Functions
+!                 ------------------------------
+! Elements                            Reference
+!  H - He: (1p) R. Krishnan, J.S. Binkley, R. Seeger and J.A. Pople, J. Chem.
+! Li - Ne: (1d) Phys. 72, 650 (1980).
+! Note: This basis uses 5-component d functions.
+! 
+! This collection of polarization functions was chosen to give the lowest
+! possible energy for the atomic ground states in frozen core UMP2 
+! calculations. For Be all exponents were optimized for the 1s2 2s1 2p1
+! excited 2-P state.

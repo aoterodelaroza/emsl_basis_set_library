@@ -1,12 +1,12 @@
-!  5ZP-DKH  EMSL  Basis Set Exchange Library   9/21/17 11:52 AM
+!  6ZP-DKH  EMSL  Basis Set Exchange Library   2/23/18 8:49 PM
 ! Elements                             References
 ! --------                             ----------
 ! H He Li Be B C N O F Ne Na Mg Al Si P S Cl Ar: C. T. Campos, G. A. Ceolin, A. Canal Neto, F. E. Jorge, and F. N. N. Pansini, Gaussian basis set of sextuple zeta quality for hydrogen through argon, Chemical Physics Letters 516, 125 (2011).
 ! 
-! Summary: All-electron 5 zeta valence quality plus polarization functions
-! Primary Developer:N/A
-! Contributor:Susi Lehtola
-! Last Modified:Tue, 13 May 2014 20:40:14 GMT
+! Summary: All-electron 6 zeta valence quality plus polarization functions
+! Primary Developer: N/A
+! Contributor: Susi Lehtola
+! Last Modified: Tue, 13 May 2014 20:41:59 GMT
 !
 !! More information
 ! Cite this work as: C. T. Campos, G. A. Ceolin, A. Canal Neto,

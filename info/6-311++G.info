@@ -15,3 +15,23 @@
 ! Contributor: Ryan Renslow
 ! Last Modified: Fri, 27 Feb 2015 03:35:17 GMT
 !
+!
+!! More information
+! 6-311++G Valence Triple Zeta + Polarization + Diffuse Basis
+! 
+!         -------------------------------------------------------------
+! 
+! Elements      Contraction                       Reference
+! 
+!       H: (6s)     -> [4s]    R. Krishnan, J.S. Binkley, R. Seeger and
+! 
+! Li - Ne: (12s,6p) -> [5s,4p] J.A. Pople, J. Chem. Phys. 72, 650 (1980).
+! 
+! Diffuse exponents: T. Clark, J. Chandrasekhar, P.v.R. Schleyer, J. Comp. Chem.
+! 
+!                    4, 294 (1983).
+! 
+! This basis has increased flexibility in the valence region relative to the
+! 
+! 6-31G basis because it uses three functions to represent each valence AO.
+! 

@@ -8,3 +8,17 @@
 ! Primary Developer: N/A
 ! Contributor: Dr. David Feller
 ! Last Modified:Mon, 15 Jan 2007 23:47:04 GMT
+!
+!! More information
+! 
+! 4-22GSP Split Valence Basis
+!                 ----------------------------
+! Elements      Contraction                       References
+!  H - He: (4s)    -> [2s]    A.V. Mitin, G. Hirsch and R. J. Buenker,
+! Li - Ne: (8s,4p) -> [3s,2p] Chem. Phys. Lett. 259, 151 (1996).
+! Na - Mg: (12s,8p)-> [4s,3p] A.V. Mitin, G. Hirsch and R. J. Buenker,
+! Al - Ar: (12s,8p)-> [4s,3p] J. Comp. Chem. 18, 1200 (1997).
+! 
+! The 4-22GSP basis set family was obtained by reoptimizing the Gaussian
+! exponents and contraction coefficients, subject to the constraint that
+! the valence (s,p) shells share the same exponents.
