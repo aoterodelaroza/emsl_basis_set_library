@@ -1,0 +1,31 @@
+!! GBS file !!
+!  LANL2DZdp ECP  EMSL  Basis Set Exchange Library   1/26/18 1:36 PM
+! Elements                             References
+! --------                             ----------
+! H  - Ne: T. H. Dunning Jr. and P. J. Hay, in Methods of Electronic Structure
+! Theory, Vol. 2, H. F. Schaefer III, ed., PLENUM PRESS (1977)
+! Na - Hg: P. J. Hay and W. R. Wadt, J. Chem. Phys. 82, 270 (1985).
+! P. J. Hay and W. R. Wadt, J. Chem. Phys. 82, 284 (1985).
+! P. J. Hay and W. R. Wadt, J. Chem. Phys. 82, 299 (1985).
+! 
+! Elements                             References
+! --------                             ----------
+! H  - Bi: C.E. Check, T.O. Faust, J.M. Bailey, B.J. Wright, T.M. Gilbert and
+!          L.S. Sunderlin, J. Phys. Chem. A, 105, 8111 (2001)
+!   
+! Summary: DZP Double Zeta + Polarization + Diffuse ECP
+! Primary Developer: N/A
+! Contributor: Dr. David Feller
+! Last Modified: Mon, 15 Jan 2007 23:45:14 GMT
+!
+!! ECP file !!
+! Elements                             References
+! --------                             ----------
+! Na - Hg: P. J. Hay and W. R. Wadt, J. Chem. Phys. 82, 270 (1985).
+! P. J. Hay and W. R. Wadt, J. Chem. Phys. 82, 284 (1985).
+! P. J. Hay and W. R. Wadt, J. Chem. Phys. 82, 299 (1985).
+! 
+! Summary: DZP Double Zeta + Polarization + Diffuse ECP
+! Primary Developer: N/A
+! Contributor: Dr. David Feller
+! Last Modified: Mon, 15 Jan 2007 23:45:14 GMT

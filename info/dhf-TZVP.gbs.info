@@ -1,9 +1,0 @@
-!  dhf-TZVP  EMSL  Basis Set Exchange Library   1/15/18 3:06 PM
-! Elements                             References
-! --------                             ----------
-! Rb Sr Y Zr Nb Mo Tc Ru Rh Pd Ag Cd In Sn Sb Te I Xe Cs Ba Hf Ta W Re Os Ir Pt Au Hg Tl Pb Bi Po At Rn: Florian Weigend and Alexander Baldes, Segmented contracted basis sets for one- and two-component Dirac?Fock effective core potentials, J. Chem. Phys. 133, 174102 (2010).
-! 
-! Summary: N/A
-! Primary Developer: Florian Weigend
-! Contributor: Bert de Jong
-! Last Modified: Tue, 02 Oct 2012 17:34:14 GMT

@@ -1,0 +1,22 @@
+!! GBS file !!
+!  modified LANL2DZ  EMSL  Basis Set Exchange Library   1/26/18 2:24 PM
+! Elements                             References
+! --------                             ----------
+! Sc Ti V Cr Mn Fe Co Ni Cu Y Zr Nb Mo Tc Ru Rh Pd Ag La Hf Ta W Re Os Ir Pt Au: Marc Couty; Michael B. Hall, Basis Sets for Transition Metals: Optimized Outer p Functions, Journal of Computational Chemistry 17, 1359 (1996).
+! 
+! Summary: transition-metal LANL2DZ basis sets including optimized outer p functions
+! Primary Developer: Michael B. Hall
+! Contributor: Charles Webster
+! Last Modified: Wed, 19 May 2010 15:58:50 GMT
+!
+!! ECP file !!
+! Elements                             References
+! --------                             ----------
+! Na - Hg: P. J. Hay and W. R. Wadt, J. Chem. Phys. 82, 270 (1985).
+! P. J. Hay and W. R. Wadt, J. Chem. Phys. 82, 284 (1985).
+! P. J. Hay and W. R. Wadt, J. Chem. Phys. 82, 299 (1985).
+! 
+! Summary: transition-metal LANL2DZ basis sets including optimized outer p functions
+! Primary Developer: Michael B. Hall
+! Contributor: Charles Webster
+! Last Modified: Wed, 19 May 2010 15:58:50 GMT

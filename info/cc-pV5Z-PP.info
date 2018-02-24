@@ -1,0 +1,44 @@
+!! GBS file !!
+!  cc-pV5Z-PP  EMSL  Basis Set Exchange Library   11/23/17 3:33 PM
+! Elements                             References
+! --------                             ----------
+! Ga-As,In-Sb, Tl-Bi   : K.A. Peterson, J. Chem. Phys. 119, 11099 (2003).
+! Se-Kr, Te-Xe, Po-Rn  : K.A. Peterson, D. Figgen, E. Goll, H. Stoll, and
+! M. Dolg, J. Chem. Phys. 119, 11113 (2003).
+! Cu, Zn, Pd, Ag, Au, Hg: K.A. Peterson and C. Puzzarini, Theor. Chem. Acc., 114, 283 (2005)
+! Y Zr Nb Mo Tc Ru Rh Pd     : K.A. Peterson, D. Figgen, M. Dolg, H. Stoll, Energy-consistent relativistic pseudopotentials and correlation consistent basis sets for the 4d elements Y-Pd, Journal of Chemical Physics 126, 124101 (2007).
+! I : K. A. Peterson, B. C. Shepler, D. Figgen, H. Stoll, On the spectroscopic and thermochemical properties of ClO, BrO, IO, and their anions, Journal of Physical Chemistry A 110, 13877 (2006).
+! Hf Ta W Re Os Ir Pt: D. Figgen, K.A. Peterson, M. Dolg, and H. Stoll, Energy-consistent pseudopotentials and correlation consistent basis sets for the 5d elements Hf-Pt, Journal of Chemical Physics 130, 164108 (2009).
+! 
+! Summary: V5ZP Valence Quintuple Zeta + Polarization on All Atoms
+! Primary Developer: N/A
+! Contributor: Dr. David Feller
+! Last Modified: Fri, 23 Oct 2009 21:41:03 GMT
+!
+!! ECP file !!
+!  cc-pV5Z-PP  EMSL  Basis Set Exchange Library   11/23/17 3:33 PM
+! Elements                             References
+! --------                             ----------
+! Ga-As,In-Sb, Tl-Bi   : K.A. Peterson, J. Chem. Phys. 119, 11099 (2003).
+! Se-Kr, Te-Xe, Po-Rn  : K.A. Peterson, D. Figgen, E. Goll, H. Stoll, and
+! M. Dolg, J. Chem. Phys. 119, 11113 (2003).
+! Cu, Zn, Pd, Ag, Au, Hg: K.A. Peterson and C. Puzzarini, Theor. Chem. Acc., 114, 283 (2005)
+! Y Zr Nb Mo Tc Ru Rh Pd     : K.A. Peterson, D. Figgen, M. Dolg, H. Stoll, Energy-consistent relativistic pseudopotentials and correlation consistent basis sets for the 4d elements Y-Pd, Journal of Chemical Physics 126, 124101 (2007).
+! I : K. A. Peterson, B. C. Shepler, D. Figgen, H. Stoll, On the spectroscopic and thermochemical properties of ClO, BrO, IO, and their anions, Journal of Physical Chemistry A 110, 13877 (2006).
+! Hf Ta W Re Os Ir Pt: D. Figgen, K.A. Peterson, M. Dolg, and H. Stoll, Energy-consistent pseudopotentials and correlation consistent basis sets for the 5d elements Hf-Pt, Journal of Chemical Physics 130, 164108 (2009).
+!
+! ELEMENTS                      REFERENCES
+! ---------                       ----------
+! O: B. Metz and H. Stoll, private communication (KAP)
+! Tl: B. Metz, M. Schweizer, H. Stoll, M. Dolg, W. Liu, Theor. Chem. Acc. 104, 22 (2000).
+! Ga-As, In-Sb, Pb-Bi: B. Metz, H. Stoll, M. Dolg, J. Chem. Phys. 113, 2563 (2000).
+! Se-Kr, Te-Xe, Po-Rn: K.A. Peterson, D. Figgen, E. Goll, H. Stoll, and M. Dolg, J. Chem. Phys., in press (2003).
+! Cu, Zn, Ag, Cd, Au, Hg: D. Figgen, G. Rauhut, M. Dolg, and H. Stoll, Chem. Phys. 311, 227 (2005).
+! Y Zr Nb Mo Tc Ru Rh Pd : K.A. Peterson, D. Figgen, M. Dolg, H. Stoll, Energy-consistent relativistic pseudopotentials and correlation consistent basis sets for the 4d elements Y-Pd, Journal of Chemical Physics 126, 124101 (2007).
+! I: K. A. Peterson, B. C. Shepler, D. Figgen, H. Stoll, On the spectroscopic and thermochemical properties of ClO, BrO, IO, and their anions, Journal of Physical Chemistry A 110, 13877 (2006).
+! Hf Ta W Re Os Ir Pt: D. Figgen, K.A. Peterson, M. Dolg, and H. Stoll, Energy-consistent pseudopotentials and correlation consistent basis sets for the 5d elements Hf-Pt, Journal of Chemical Physics 130, 164108 (2009).
+! 
+! Summary: V5ZP Valence Quintuple Zeta + Polarization on All Atoms
+! Primary Developer: N/A
+! Contributor: Dr. David Feller
+! Last Modified: Fri, 23 Oct 2009 21:41:03 GMT

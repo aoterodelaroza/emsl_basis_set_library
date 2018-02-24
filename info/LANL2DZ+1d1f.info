@@ -1,0 +1,22 @@
+!! GBS file !!
+!  Lanl2DZ+1d1f  EMSL  Basis Set Exchange Library   1/26/18 1:33 PM
+! Elements                             References
+! --------                             ----------
+! Rh: Otello M. Roscioni, Edmond P. F. Lee, John M. Dyke, Development and testing of a compact basis set for use in effective core potential calculations on rhodium complexes, Journal of Computational Chemistry 33(26):2049-57 (2012).
+! 
+! Summary: Lanl2DZ+1d1f
+! Primary Developer: Otello M. Roscioni
+! Contributor: Otello Maria Roscioni
+! Last Modified: Mon, 24 Sep 2012 23:05:45 GMT
+!
+!! ECP file !!
+! Elements                             References
+! --------                             ----------
+! Na - Hg: P. J. Hay and W. R. Wadt, J. Chem. Phys. 82, 270 (1985).
+! P. J. Hay and W. R. Wadt, J. Chem. Phys. 82, 284 (1985).
+! P. J. Hay and W. R. Wadt, J. Chem. Phys. 82, 299 (1985).
+! 
+! Summary: Lanl2DZ+1d1f
+! Primary Developer: Otello M. Roscioni
+! Contributor: Otello Maria Roscioni
+! Last Modified: Mon, 24 Sep 2012 23:05:45 GMT
