@@ -6,5 +6,22 @@
 ! "aug-cc-pV6Z-RI diffuse" Basis Set Information
 ! Summary: N/A
 ! Primary Developer: Christof Hattig
-! Contributor: Christof H�ttig
+! Contributor: Christof Hattig
 ! Last Modified: Thu, 06 Nov 2008 18:50:45 GMT
+!
+!! More information
+! Diffuse function for the cc-pV6Z and cc-pV(6+d)Z
+! 
+! auxiliary basis sets for correlated calculations
+! 
+! with second-order methods
+! 
+! using the resolution-of-the-identity approximation
+! 
+! as e.g. RI-MP2, RI-CC2, RI-CIS(D), RI-ADC(2), etc.
+! 
+! The full aug-cc-pV6Z-RI and aug-cc-pV(6+d)Z-RI
+! 
+! auxiliary basis sets are obtained by augmenting the valence
+! 
+! auxiliary basis sets with these diffuse functions.

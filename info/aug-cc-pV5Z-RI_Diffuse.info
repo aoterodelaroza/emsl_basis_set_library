@@ -9,3 +9,20 @@
 ! Primary Developer: Christof Hattig
 ! Contributor: Christof H�ttig
 ! Last Modified: Wed, 30 Apr 2008 23:49:42 GMT
+!
+!! More information
+! Diffuse function for the cc-pV5Z, cc-pV(5+d)Z, or cc-pwCV5Z
+! 
+! auxiliary basis sets for correlated calculations
+! 
+! with second-order methods
+! 
+! using the resolution-of-the-identity approximation
+! 
+! as e.g. RI-MP2, RI-CC2, RI-CIS(D), RI-ADC(2), etc.
+! 
+! The full aug-cc-pV5Z-RI, aug-cc-pV(5+d)Z-RI, and aug-cc-pwCV5Z-RI
+! 
+! auxiliary basis sets are obtained by augmenting the (core+)valence
+! 
+! auxiliary basis sets with these diffuse functions.

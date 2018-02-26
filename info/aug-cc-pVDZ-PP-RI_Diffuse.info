@@ -7,5 +7,22 @@
 ! "aug-cc-pVDZ-PP-RI Diffuse" Basis Set Information
 ! Summary: auxiliary basis sets for for second-order correlation methods using the resolution-of-the-identity approximation for electron repulsion integrals (RI-MP2, RI-CC2, RI-CIS(D), RI-ADC(2),...)
 ! Primary Developer: Christof Hattig
-! Contributor: Christof H�ttig
+! Contributor: Christof Hattig
 ! Last Modified: Tue, 01 Sep 2009 23:31:15 GMT
+!
+!! More information
+! Diffuse function for the aug-cc-pVDZ-PP and aug-cc-pwCVDZ-PP
+! 
+! auxiliary basis sets for correlated calculations
+! 
+! with second-order methods
+! 
+! using the resolution-of-the-identity approximation
+! 
+! as e.g. RI-MP2, RI-CC2, RI-CIS(D), RI-ADC(2), etc.
+! 
+! The full aug-cc-pVDZ-RI and aug-cc-pwCVDZ-PP-RI
+! 
+! auxiliary basis sets are obtained by augmenting the valence
+! 
+! auxiliary basis sets with these diffuse functions.
