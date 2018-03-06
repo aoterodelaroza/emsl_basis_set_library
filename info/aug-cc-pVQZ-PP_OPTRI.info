@@ -1,14 +1,8 @@
-!  aug-cc-pwCVTZ-PP_OPTRI  EMSL  Basis Set Exchange Library   11/6/17 10:52 AM
+!  aug-cc-pVQZ-PP_OPTRI  EMSL  Basis Set Exchange Library   3/5/18 4:18 PM
 ! Elements                             References
 ! --------                             ----------
 ! Cu Zn Ag Cd Au Hg: J. Grant Hill and Kirk A. Peterson, Explicitly Correlated Coupled Cluster Calculations for Molecules Containing Group 11 (Cu, Ag, Au) and 12 (Zn, Cd, Hg) Elements: Optimized Complementary Auxiliary Basis Sets for Valence and Core-Valence Basis Sets, J. Chem. Theory Comput. 8, 518 (2012).
 ! 
-! "aug-cc-pwCVTZ-PP_OPTRI" Basis Set Information
-! Summary: CABS RI basis sets for F12 matched to aug-cc-pwCVTZ-PP orbital basis sets
-! Primary Developer: Grant Hill
-! Contributor: Grant Hill
-! Last Modified: Tue, 26 Jun 2012 17:38:38 GMT
 !
 !! More information
-! 
-! CABS RI basis sets for F12 matched to aug-cc-pwCVTZ-PP orbital basis sets
+! CABS RI basis sets for F12 matched to aug-cc-pVQZ-PP orbital basis sets

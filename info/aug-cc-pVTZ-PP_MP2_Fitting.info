@@ -10,3 +10,11 @@
 ! Primary Developer: Grant Hill
 ! Contributor: Grant Hill
 ! Last Modified: Tue, 26 Jun 2012 17:36:32 GMT
+!
+!! More information
+! 
+! Auxiliary basis set to be used with the aug-cc-pVTZ-PP AO basis set in MP2 density fitting 
+! 
+! MP2 auxiliary basis for use with aug-cc-pVTZ-PP AO basis set 
+! 
+! Auxiliary basis set for density fitting in MP2, matched to the aug-cc-pVTZ-PP basis set. Diffuse functions only.

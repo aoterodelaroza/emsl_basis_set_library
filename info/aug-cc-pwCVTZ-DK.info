@@ -19,3 +19,12 @@
 ! Primary Developer: N/A
 ! Contributor: Dr. David Feller
 ! Last Modified: Mon, 15 Jan 2007 23:45:40 GMT
+!
+!! More information
+! 
+! All-electron, Douglas-Kroll Weighted Core/valence aug-cc-pwCVTZ-DK Basis Sets
+!  -----------------------------------------------------------------------------
+! Elements           Contraction                    References
+! Sc - Zn: (21s 17p 9d 4f 3g) -> [10s 9p 7d 4f 3g] N.B. Balabanov and K.A.
+!                                                  Peterson, J. Chem. Phys.,
+!                                                  123, 064107 (2005)

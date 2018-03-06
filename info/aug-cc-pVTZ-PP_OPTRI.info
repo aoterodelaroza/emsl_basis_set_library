@@ -3,3 +3,7 @@
 ! --------                             ----------
 ! Cu Zn Ag Cd Au Hg: J. Grant Hill and Kirk A. Peterson, Explicitly Correlated Coupled Cluster Calculations for Molecules Containing Group 11 (Cu, Ag, Au) and 12 (Zn, Cd, Hg) Elements: Optimized Complementary Auxiliary Basis Sets for Valence and Core-Valence Basis Sets, J. Chem. Theory Comput. 8, 518 (2012).
 ! 
+!
+!! More information
+! 
+! CABS RI basis sets for F12 matched to aug-cc-pVTZ-PP orbital basis sets
