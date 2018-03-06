@@ -11,3 +11,6 @@
 ! Al - Ar: T.H. Dunning, Jr., K.A. Peterson and A.K. Wilson, J. Chem. Phys. 114, 9244 (2001).
 ! :  .
 ! 
+!
+!! More information
+! cc-pV(T+d)Z+ basis set is the cc-pV(T+d)Z+ basis set of Dunning and coworkers augmented with only s and p diffuse functions of Pople and coworkers on the heavy atoms.

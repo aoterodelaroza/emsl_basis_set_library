@@ -9,3 +9,13 @@
 ! Primary Developer: N/A
 ! Contributor: Dr. David Feller
 ! Last Modified: Mon, 15 Jan 2007 23:45:22 GMT
+!
+!! More information
+! Binning/Curtiss Valence Double Zeta
+!                     ------------------------------------
+!  Elements                            Reference
+! Ga - Kr: (14s,11p,6d,1f) -> [6s,4p,2d,1f] R. C. Binning, Jr. and L.A. Curtiss,
+!                                           J. Comp. Chem. 11, 1206 (1990).
+! Primitive Exponents: T. H. Dunning, Jr. J. Chem. Phys. 66, 1382 (1977)
+! 
+! These are groundstate, RHF energy-optimized basis sets.

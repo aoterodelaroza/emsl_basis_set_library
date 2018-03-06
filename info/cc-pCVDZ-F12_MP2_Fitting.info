@@ -7,3 +7,6 @@
 ! Primary Developer: Grant Hill
 ! Contributor: Grant Hill
 ! Last Modified: Mon, 11 Jul 2016 17:50:17 GMT
+!
+!! More information
+! Auxiliary basis set matched to cc-pCVDZ-F12 (for core-valence correlation) to be used in the density fitting of 2 electron integrals (MP2 fitting)

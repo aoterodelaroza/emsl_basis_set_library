@@ -9,3 +9,6 @@
 ! Primary Developer: Angela K. Wilson
 ! Contributor: Wanyi Jiang
 ! Last Modified: Tue, 13 May 2014 20:29:59 GMT
+!
+!! More information
+! The tight-d basis set functions from the cc-pV(T+d)Z basis set are combined with the cc-pVTZ-DK. These basis sets are useful for the consideration of additive corrections of scalar relativistic effects.
