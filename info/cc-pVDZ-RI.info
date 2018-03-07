@@ -8,3 +8,8 @@
 ! Primary Developer: Christof Hattig
 ! Contributor: Christof Hattig
 ! Last Modified: Wed, 30 Apr 2008 23:43:27 GMT
+!
+!! More information
+! Auxiliary basis set for second-order correlation methods using the resolution-of-the-identity approximation for electron repulsion integrals (RI-MP2, RI-CC2, RI-CIS(D), RI-ADC(2),...) 
+! 
+! auxiliary basis sets for resolution-of-the-identity MP2, CC2 and other methods

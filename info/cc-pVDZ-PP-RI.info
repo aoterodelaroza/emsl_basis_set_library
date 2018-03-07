@@ -6,5 +6,16 @@
 ! 
 ! Summary: auxiliary basis sets for for second-order correlation methods using the resolution-of-the-identity approximation for electron repulsion integrals (RI-MP2, RI-CC2, RI-CIS(D), RI-ADC(2),...)
 ! Primary Developer: Christof Hattig
-! Contributor: Christof H�ttig
+! Contributor: Christof Hattig
 ! Last Modified: Tue, 01 Sep 2009 23:40:06 GMT
+!
+!! More information
+! auxiliary basis sets for correlated calculations
+! 
+! with second-order methods
+! 
+! using the resolution-of-the-identity approximation
+! 
+! as e.g. RI-MP2, RI-CC2, RI-CIS(D), RI-ADC(2), etc.
+! 
+! for use with the cc-pVQZ-PP orbital basis sets.
