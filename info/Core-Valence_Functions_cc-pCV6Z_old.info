@@ -8,3 +8,20 @@
 ! Primary Developer: N/A
 ! Contributor: Dr. David Feller
 ! Last Modified: Wed, 20 Jan 2010 23:23:12 GMT
+!
+!! More information
+! Extra Core/valence Functions (cc-pCV6Z(old))
+! 
+!               ---------------------------------------
+! 
+! Elements                             References
+! 
+! H     :
+! 
+! O     : (5s,5p,4d,3f,2g,1h)    D. Feller (to be published)
+! 
+! 6/13/05 - DFF - rename these basis sets cc-pCV6Z(old) to distinguish them
+! 
+! from the official sets provided by Angela Wilson
+! 
+! 10/11/01 - DFF - Original creation of this file.

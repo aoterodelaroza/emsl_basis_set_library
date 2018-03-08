@@ -7,3 +7,18 @@
 ! Primary Developer: N/A
 ! Contributor: Dr. David Feller
 ! Last Modified: Wed, 20 Jan 2010 23:23:49 GMT
+!
+!! More information
+! Extra Core/valence Functions (cc-pCVQZ(old))
+! 
+!               --------------------------------------
+! 
+!  Elements                            Reference
+! 
+! Al - Ar: (3s,3p,3d,2f,1g)  K.A. Peterson (unplublished)
+! 
+! The basic idea behind the correlation consistent basis sets is that
+! 
+! functions which contribute approximately the same amount of correlation
+! 
+! energy should be taken as a whole in forming the basis set.

@@ -10,3 +10,26 @@
 ! Primary Developer: N/A
 ! Contributor: Dr. David Feller
 ! Last Modified: Wed, 20 Jan 2010 23:09:25 GMT
+!
+!! More information
+! Extra Core/valence Functions (cc-pCVTZ)
+! 
+!               --------------------------------------
+! 
+!  Elements                            Reference
+! 
+! Li - Ne: (2s,2p,1d)     T.H. Dunning, Jr. J.C.P. 90, 1007 (1989).
+! 
+! Na     : (2s,2p,2d,1f)  D. Woon and T.H. Dunning, Jr. (to be published)
+! 
+! Ca     : (2s,2p,2d,1f)  J. Koput and K.A. Peterson, J. Phys. Chem. A,
+! 
+!                         106, 9595 (2002)
+! 
+! The basic idea behind the correlation consistent basis sets is that
+! 
+! functions which contribute approximately the same amount of correlation
+! 
+! energy should be taken as a whole in forming the basis set.
+! 
+! The SD-CI energies quoted below are for valence CI's.

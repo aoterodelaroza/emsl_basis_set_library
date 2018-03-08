@@ -7,3 +7,14 @@
 ! Primary Developer: N/A
 ! Contributor: Dr. David Feller
 ! Last Modified: Mon, 15 Jan 2007 23:45:48 GMT
+!
+!! More information
+! All-electron, Nonrelativistic Weighted Core/valence cc-pwCVTZ-NR Basis Sets
+!  ---------------------------------------------------------------------------
+! Elements           Contraction                       References
+! Sc - Zn: (20s,16p,8d,3f,2g) -> [9s,8p,6d,3f,2g]     N.B. Balabanov and K.A.
+!                                                     Peterson, J. Chem. Phys.,
+!                                                     123, 064107 (2005)
+! 
+! Note: these basis sets are intended for use in calculations that correlate the
+! outer core and valence 3s3p3d4s electrons.

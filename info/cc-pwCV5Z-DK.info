@@ -7,3 +7,18 @@
 ! Primary Developer: N/A
 ! Contributor: Dr. David Feller
 ! Last Modified: Thu, 06 Nov 2008 18:48:54 GMT
+!
+!! More information
+! All-electron, Douglas-Kroll, Core/valence cc-pwCV5Z-DK Basis Sets
+! 
+!     -----------------------------------------------------------------
+! 
+! Elements           Contraction                                  References
+! 
+! Sc - Zn: (28s,20p,12d,5f,4g,3h,2i) -> [11s,10p,8d,5f,4g,3h,2i] N.B. Balabanov
+! 
+!                                                               and K.A. Peterson,
+! 
+!                                                               J. Chem. Phys.,
+! 
+!                                                               123, 064107 (2005)

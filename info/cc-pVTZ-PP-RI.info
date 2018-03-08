@@ -9,3 +9,10 @@
 ! Primary Developer: Christof Hattig
 ! Contributor: Christof Hattig
 ! Last Modified: Tue, 01 Sep 2009 23:45:36 GMT
+!
+!! More information
+! auxiliary basis sets for resolution-of-the-identity MP2 (RI-MP2, also known as DF-MP2, density-fitting MP2) and similar methods for use the cc-pVTZ-PP orbital basis sets. 
+! 
+! auxiliary basis sets for correlated calculations
+! 
+! with second-order methods

@@ -7,3 +7,20 @@
 ! Primary Developer: Christof Hattig
 ! Contributor: Christof Hattig
 ! Last Modified: Wed, 30 Apr 2008 23:56:20 GMT
+!
+!! More information
+! tight functions for te cc-pVDZ and aug-cc-pVDZ
+! 
+! auxiliary basis sets for correlated calculations
+! 
+! with second-order methods
+! 
+! using the resolution-of-the-identity approximation
+! 
+! as e.g. RI-MP2, RI-CC2, RI-CIS(D), RI-ADC(2), etc.
+! 
+! The full cc-pwCVDZ-RI and aug-cc-pwCVDZ-RI auxiliary 
+! 
+! basis sets are obtained by augmenting the valence auxiliary
+! 
+! basis sets with these tight functions

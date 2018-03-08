@@ -8,3 +8,18 @@
 ! Primary Developer: N/A
 ! Contributor: Dr. David Feller
 ! Last Modified: Wed, 30 Apr 2008 22:35:54 GMT
+!
+!! More information
+! cc-pwCVTZ-DK sets
+! 
+!    ------------------------------------------------
+! 
+! Elements           Contraction                       References
+! 
+! Sc - Zn: (20s,16p,8d,3f,2g) -> [9s,8p,6d,3f,2g]  N.B. Balabanov and K.A.
+! 
+!                                                  Peterson, J. Chem. Phys.,
+! 
+!                                                  123, 064107 (2005) 
+! 
+! Y Zr Nb Mo Tc Ru Rh Pd      : K.A. Peterson, D. Figgen, M. Dolg, H. Stoll, Energy-consistent relativistic pseudopotentials and correlation consistent basis sets for the 4d elements Y-Pd, Journal of Chemical Physics 126, 124101 (2007).

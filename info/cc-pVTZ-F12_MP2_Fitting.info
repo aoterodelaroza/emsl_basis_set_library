@@ -7,3 +7,6 @@
 ! Primary Developer: Grant Hill
 ! Contributor: Grant Hill
 ! Last Modified: Mon, 11 Jul 2016 18:02:31 GMT
+!
+!! More information
+! Auxiliary basis set matched to cc-pVTZ-F12 to be used in the density fitting of 2 electron integrals (MP2 fitting)

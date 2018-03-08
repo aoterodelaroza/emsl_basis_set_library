@@ -7,3 +7,23 @@
 ! Primary Developer: Christof Hattig
 ! Contributor: Christof Hattig
 ! Last Modified: Tue, 01 Sep 2009 23:55:30 GMT
+!
+!! More information
+! auxiliary basis sets for correlated calculations
+! 
+! with second-order methods
+! 
+! using the resolution-of-the-identity approximation
+! 
+! as e.g. RI-MP2, RI-CC2, RI-CIS(D), RI-ADC(2), etc.
+! 
+! for use with the cc-pwCVTZ orbital basis sets.
+! auxiliary basis sets for correlated calculations
+! 
+! with second-order methods
+! 
+! using the resolution-of-the-identity approximation
+! 
+! as e.g. RI-MP2, RI-CC2, RI-CIS(D), RI-ADC(2), etc.
+! 
+! for use with the cc-pwCVTZ orbital basis sets.
