@@ -8,3 +8,20 @@
 ! Primary Developer: N/A
 ! Contributor: Dr. David Feller
 ! Last Modified: Mon, 15 Jan 2007 23:45:02 GMT
+!
+!! More information
+! 
+! DGauss A1 DFT Exchange/Correlation Fitting
+!                     ------------------------------------------
+! Elements                                        References
+!  H - He: ( 4s)        N. Godbout, D. R. Salahub, J. Andzelm, and E. Wimmer,
+! Li - Be: ( 7s,2p,1d)  Can. J. Chem. 70, 560 (1992).
+! B  - Ne: ( 7s,3p,3d)
+! Na - Mg: ( 9s,4p,3d)
+! Al - Ar: ( 9s,4p,4d)
+! K  - Ca: (10s,5p,4d)
+! Sc - Kr: (10s,5p,5d)
+! Rb - Sr: (11s,6p,5d)
+! Y  - Xe: (10s,5p,5d)
+! 
+! DGauss basis sets provided courtesy of Cray Research, Inc.
