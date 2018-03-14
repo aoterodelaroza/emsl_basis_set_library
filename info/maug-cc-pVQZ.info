@@ -14,3 +14,7 @@
 ! Primary Developer: Donald G. Truhlar
 ! Contributor: Ewa Papajak
 ! Last Modified: Wed, 22 Dec 2010 20:54:47 GMT
+!
+!! More information
+! 
+! maug-cc-pVQZ basis set is the cc-pVQZ basis set of Dunning and coworkers augmented with only s and p diffuse functions on the heavy atoms. This basis set is called minimally augmented cc-pVQZ, which we abbreviate maug-cc-pVQZ

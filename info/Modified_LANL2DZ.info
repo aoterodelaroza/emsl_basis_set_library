@@ -20,3 +20,21 @@
 ! Primary Developer: Michael B. Hall
 ! Contributor: Charles Webster
 ! Last Modified: Wed, 19 May 2010 15:58:50 GMT
+!
+!! More information
+! 
+! Marc Couty and Michael B. Hall
+! 
+! Journal of Computational Chemistry 1996 17 1359-1370
+! 
+! modified-LANL2DZ
+! 
+! Although the (n + 1)p orbital is unoccupied in transition-metal ground-state
+! 
+! configurations which are all nd(x)(n + l)s(y), these (n + l)p functions play a
+! 
+! crucial role in the structure of transition metal complexes. 
+! 
+! This basis set offers a set of properly optimized (n + l)p functions that offer a more compact and satisfactory solution to the proper placements of the (n + 1)p node.
+! 
+! The new optimized (n + l)p function performs well compared to a fully uncontracted basis set.

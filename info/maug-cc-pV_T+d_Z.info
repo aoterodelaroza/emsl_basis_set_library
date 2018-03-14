@@ -13,3 +13,9 @@
 ! Primary Developer: Donald G. Truhlar
 ! Contributor: Ewa Papajak
 ! Last Modified: Thu, 15 Jul 2010 20:13:00 GMT
+!
+!! More information
+! 
+! Maug-cc-pV(T+d)Z basis set is the cc-pV(T+d)Z basis set of Dunning and coworkers augmented with only s and p diffuse functions on the heavy atoms. This basis set is called minimally augmented cc-pV(T+d)Z, which we abbreviate 
+! 
+! as maug-cc-pV(T+d)Z.

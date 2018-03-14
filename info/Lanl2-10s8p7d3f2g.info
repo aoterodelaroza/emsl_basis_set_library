@@ -20,3 +20,29 @@
 ! Primary Developer: Otello M. Roscioni
 ! Contributor: Otello Maria Roscioni
 ! Last Modified: Mon, 24 Sep 2012 23:06:28 GMT
+!
+!! More information
+! 
+! * Atomic energy of Rh 4-F States calculated at the UCCSD(T) level of theory:
+! 
+! * Rh    -109.28519272
+! 
+! * Rh+   -109.01078316
+! 
+! * Rh-   -109.32641656
+! 
+! *      Theo    Exp
+! 
+! * IE = 7.467   7.479 eV
+! 
+! * EA = 1.122   1.134 eV
+! 
+! Experimental values averaged over the J values of the upper and lower
+! 
+! state, from references:
+! 
+! J. Phys. Chem. Ref. Data 1985, 14, 731
+! 
+! Phys. Rev. A 1998, 58, 2051.
+! 
+! J. Chem. Theory Comput. 2008, 4, 1029.

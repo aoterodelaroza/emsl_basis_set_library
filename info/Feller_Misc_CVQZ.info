@@ -8,3 +8,13 @@
 ! Primary Developer: N/A
 ! Contributor: Dr. David Feller
 ! Last Modified: Mon, 15 Jan 2007 23:45:57 GMT
+!
+!! More information
+! 
+! Core/valence quadruple zeta basis sets
+!                 --------------------------------------
+! Elements                   Contraction               References
+! K : (23s,19p,6d,4f,2g) -> [10s,9p,6d,4f,2g] (s,p) exponents from H. Partridge
+!                                             Polarization and core/valence
+!                                             exponents from
+!                                             D. Feller, (to be published)

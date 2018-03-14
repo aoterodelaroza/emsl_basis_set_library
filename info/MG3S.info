@@ -7,3 +7,7 @@
 ! Primary Developer: Donald G. Truhlar
 ! Contributor: Hannah Leverentz
 ! Last Modified: Thu, 14 Jun 2012 18:54:39 GMT
+!
+!! More information
+! 
+! MG3S is a triple-zeta polarized basis set with diffuse functions on all heavy atoms.  It is a modification of Pople&apos;s 6-311++G** basis set.

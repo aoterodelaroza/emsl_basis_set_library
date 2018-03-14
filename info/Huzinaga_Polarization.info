@@ -8,3 +8,16 @@
 ! Primary Developer: N/A
 ! Contributor: Dr. David Feller
 ! Last Modified: Mon, 15 Jan 2007 23:44:33 GMT
+!
+!! More information
+! 
+! Huzinaga Polarization Functions
+!                     -------------------------------
+! Elements                             Reference
+!  K - Ca: (1d)   GAMESS(US) 1993, Source unknown
+! Rb - Sr: (1d)   GAMESS(US) 1993, Source unknown
+! Ga - Kr: (1d)   S. Huzinaga, J. Anzelm, M. Klobukowski, E. Radzio-Andzelm,
+! In - Xe: (1d)   Y. Sakai, H. Tatewaki in Gaussian Basis Sets for Molecular
+! Tl - Rn: (1d)   Calculations, (Elsevier, Amsterdam, 1984)
+! 
+! Note: This basis assumes 6 term d's.

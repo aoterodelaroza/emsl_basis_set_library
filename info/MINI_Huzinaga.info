@@ -7,3 +7,13 @@
 ! Primary Developer: N/A
 ! Contributor: Dr. David Feller
 ! Last Modified: Mon, 15 Jan 2007 23:46:53 GMT
+!
+!! More information
+! 
+! MINI Minimal Basis
+!                             ------------------
+! Elements     Contraction                   References
+!  H - He: (3s)      -> [1s]      S. Huzinaga, Ed., J. Andzelm, M. Klobukowski,
+! Li - Ne: (6s,3p)   -> [2s,1p]   E. Radzio-Andzelm, Y. Sakai, H. Tatewaki in
+! Na - Ar: (9s,6p)   -> [3s,2p]   Gaussian Basis Sets for Molecular Calculations:
+!                                 Elsevier, Amsterdam, 1984.
