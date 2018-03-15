@@ -10,3 +10,19 @@
 ! Primary Developer: Frank Neese
 ! Contributor: ganymede skywalker
 ! Last Modified: Thu, 28 Feb 2013 01:08:44 GMT
+!
+!! More information
+! 
+! All-electron scalar relativistic basis sets for third row transition metal atoms
+! 
+!  
+! 
+! Dimitrios. A. Pantazis,(a) Xian-Yang Chen,(b) Clark R. Landis,(b) and Frank Neese(a)
+! 
+!  
+! 
+! (a) Lehrstuhl fur Theoretische Chemie, Institut f&#252;r Physikalische und Theoretische Chemie,Universit?t Bonn, Wegelerstr. 12, D-53115 Bonn, Germany, 
+! 
+! (b) Department of Chemistry, University of Wisconsin&#8212;Madison, 1101 University Avenue, Madison, Wisconsin 53706, USA. 
+! 
+! The SARC-DKH basis sets are segmented all-electron scalar relativistic basis sets in which the coefficients of contracted GTOs have been optimized for use with the DKH2 scalar relativistic Hamiltonian.

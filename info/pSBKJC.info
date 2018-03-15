@@ -21,3 +21,27 @@
 ! Primary Developer: Luciano N. Vidal
 ! Contributor: Luciano Vidal
 ! Last Modified: Tue, 02 Oct 2012 17:19:14 GMT
+!
+!! More information
+! 
+! Sadlej&apos;s electric polarization method of Gaussian basis functions was applied to the double-zeta effective core potential basis sets of Stevens, Basch, Krauss, Jasien and Cundari to generate a new augmented polarized valence double-zeta set, 
+! 
+! named as pSBKJC, which is appropriate for the calculation of dynamic polarizabilities and Raman intensities. 
+! 
+! The pSBKJC basis set was developed for the atoms of families 14 to 17 
+! 
+! (from C to F, Si to Cl, Ge to Br and Sn to I).
+! 
+! For more detail, please see: Vidal, L.N. and Vazquez, P.A.M.; Theoretical Chemistry Accounts, v.131, p.1111, 2012.
+!
+!! More information
+! 
+! Sadlej&apos;s electric polarization method of Gaussian basis functions was applied to the double-zeta effective core potential basis sets of Stevens, Basch, Krauss, Jasien and Cundari to generate a new augmented polarized valence double-zeta set, 
+! 
+! named as pSBKJC, which is appropriate for the calculation of dynamic polarizabilities and Raman intensities. 
+! 
+! The pSBKJC basis set was developed for the atoms of families 14 to 17 
+! 
+! (from C to F, Si to Cl, Ge to Br and Sn to I).
+! 
+! For more detail, please see: Vidal, L.N. and Vazquez, P.A.M.; Theoretical Chemistry Accounts, v.131, p.1111, 2012.

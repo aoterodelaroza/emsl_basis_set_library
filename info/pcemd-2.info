@@ -7,3 +7,9 @@
 ! Primary Developer: Susi Lehtola
 ! Contributor: Susi Lehtola
 ! Last Modified: Thu, 28 Feb 2013 00:52:58 GMT
+!
+!! More information
+! 
+! The pcemd-2 basis set is designed for electron momentum density calculations at the SCF level of theory.
+! 
+! The relative accuracy of the basis set is roughly ~ 10^-2.

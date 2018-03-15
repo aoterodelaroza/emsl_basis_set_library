@@ -8,3 +8,18 @@
 ! Primary Developer: N/A
 ! Contributor: Dr. David Feller
 ! Last Modified: Mon, 15 Jan 2007 23:44:34 GMT
+!
+!! More information
+! 
+! 6-311G(3df,3pd) Polarization Functions
+!           -------------------------------------
+! Elements                            References
+!  H - He: (3p,1d)  M.J. Frisch, J.A. Pople and J.S. Binkley J. Chem. Phys.
+! Li - Ne: (3d,1f)  Phys. 80 3265 (1984).
+! Na - Cl: (3d,1f)
+! 
+! Ar: polarization functions are unpublished, extapolated from P, S, Cl.
+! 
+! 
+! These polarization functions were derived from the original 6-311G set
+! by applying the rules given in the following literature citation.

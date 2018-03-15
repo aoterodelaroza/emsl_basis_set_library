@@ -8,3 +8,14 @@
 ! Primary Developer: N/A
 ! Contributor: Dr. David Feller
 ! Last Modified: Mon, 15 Jan 2007 23:44:39 GMT
+!
+!! More information
+! 
+! STO-3G* Polarization Functions
+!                      ------------------------------
+! Elements                             References
+! Na - Ar: (1d)  J.B. Collins, P.R. Schleyer, J.S. Binkley, J.A. Pople, J. Chem.
+!                Phys. 64, 5142 (1976)
+! 
+! The STO-3G* polarization set amounts to a single 5-term d function for elements
+! Na - Ar to account for the participation of d functions in second row bonding.x
